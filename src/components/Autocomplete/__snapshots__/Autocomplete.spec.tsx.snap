@@ -1,0 +1,110 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Autocomplete [common] example testing should match snapshot(s) for Basic 1`] = `
+<div
+  class="lucid-DropMenu lucid-DropMenu-base lucid-Autocomplete"
+>
+  <span
+    class="lucid-ContextMenu"
+  >
+    <div
+      class="lucid-DropMenu-Control"
+      tabindex="0"
+    >
+      <div
+        class="lucid-Autocomplete-Control"
+      >
+        <input
+          class="lucid-Autocomplete-Control-input"
+          placeholder="Enter a word..."
+          type="text"
+        />
+      </div>
+    </div>
+  </span>
+</div>
+`;
+
+exports[`Autocomplete [common] example testing should match snapshot(s) for Disabled 1`] = `
+<section
+  style="min-height:100px"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-Autocomplete"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+      >
+        <div
+          class="lucid-Autocomplete-Control lucid-Autocomplete-Control-is-disabled"
+        >
+          <input
+            class="lucid-Autocomplete-Control-input"
+            disabled=""
+            placeholder="Enter a word..."
+            type="text"
+          />
+        </div>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`Autocomplete [common] example testing should match snapshot(s) for Interactive 1`] = `
+<section>
+  <section>
+    Current Value: 
+  </section>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-Autocomplete"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <div
+          class="lucid-Autocomplete-Control"
+        >
+          <input
+            class="lucid-Autocomplete-Control-input"
+            placeholder="Enter a word..."
+            type="text"
+          />
+        </div>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`Autocomplete [common] example testing should match snapshot(s) for Stateless 1`] = `
+<div
+  class="lucid-DropMenu lucid-DropMenu-base lucid-DropMenu-is-expanded lucid-DropMenu-direction-down lucid-Autocomplete"
+>
+  <span
+    class="lucid-ContextMenu"
+  >
+    <div
+      class="lucid-DropMenu-Control"
+      tabindex="0"
+    >
+      <div
+        class="lucid-Autocomplete-Control lucid-Autocomplete-Control-is-expanded"
+      >
+        <input
+          class="lucid-Autocomplete-Control-input"
+          placeholder="Enter a word..."
+          type="text"
+        />
+      </div>
+    </div>
+  </span>
+</div>
+`;

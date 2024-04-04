@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InfoLightIcon [common] example testing should match snapshot(s) for Basic 1`] = `
+<svg
+  class="lucid-Icon lucid-Icon-color-primary lucid-InfoLightIcon"
+  height="16"
+  preserveAspectRatio="xMidYMid meet"
+  viewBox="0 0 16 16"
+  width="16"
+>
+  <circle
+    class="lucid-InfoLightIcon-background"
+    cx="8"
+    cy="8"
+    r="7.5"
+  />
+  <path
+    class="lucid-InfoLightIcon-stem"
+    d="M7.99 12.5v-6"
+  />
+  <circle
+    class="lucid-InfoLightIcon-dot"
+    cx="7.99"
+    cy="4"
+    r=".293"
+  />
+</svg>
+`;

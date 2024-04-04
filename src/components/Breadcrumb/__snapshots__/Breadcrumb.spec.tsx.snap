@@ -1,0 +1,158 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Breadcrumb [common] example testing should match snapshot(s) for Basic 1`] = `
+<nav
+  class="lucid-Breadcrumb"
+>
+  <ul
+    class="lucid-Breadcrumb-List"
+  >
+    <li
+      class="lucid-Breadcrumb-Item"
+    >
+      <a
+        href="#"
+      >
+        Start
+      </a>
+      <span
+        class="lucid-Breadcrumb-BreadcrumbSeparator"
+      >
+        <span />
+        <span />
+      </span>
+    </li>
+    <li
+      class="lucid-Breadcrumb-Item"
+    >
+      <a
+        href="#"
+      >
+        List
+      </a>
+      <span
+        class="lucid-Breadcrumb-BreadcrumbSeparator"
+      >
+        <span />
+        <span />
+      </span>
+    </li>
+    <li
+      class="lucid-Breadcrumb-Item"
+    >
+      <a
+        href="#"
+      >
+        Item
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
+
+exports[`Breadcrumb [common] example testing should match snapshot(s) for Rich 1`] = `
+<nav
+  class="lucid-Breadcrumb"
+>
+  <ul
+    class="lucid-Breadcrumb-List"
+  >
+    <li
+      class="lucid-Breadcrumb-Item"
+    >
+      <a
+        href="#"
+      >
+        <div
+          class="lucid-NotchedTag lucid-NotchedTag-style-two lucid-NotchedTag-small"
+          style="height:18px;width:30px;clip-path:polygon(
+			4px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 6.928203230275509px
+		)"
+        >
+          <div
+            class="lucid-NotchedTag-container"
+            style="top:2px;right:2px;left:2px;bottom:2px;clip-path:polygon(
+			3px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 5.928203230275509px
+		)"
+          >
+            <div
+              class="lucid-NotchedTag-container-centered"
+            >
+              IO
+            </div>
+          </div>
+        </div>
+        <span>
+          <span>
+            Foo
+          </span>
+          <span
+            style="font-weight:400"
+          >
+             (1234)
+          </span>
+        </span>
+      </a>
+      <span
+        class="lucid-Breadcrumb-BreadcrumbSeparator"
+      >
+        <span />
+        <span />
+      </span>
+    </li>
+    <li
+      class="lucid-Breadcrumb-Item"
+    >
+      <a
+        href="#"
+      >
+        <div
+          class="lucid-NotchedTag lucid-NotchedTag-style-three lucid-NotchedTag-small lucid-NotchedTag-no-border"
+          style="height:18px;width:30px;clip-path:polygon(
+			4px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 6.928203230275509px
+		)"
+        >
+          <div
+            class="lucid-NotchedTag-container lucid-NotchedTag-container-filled"
+            style="top:2px;right:2px;left:2px;bottom:2px;clip-path:polygon(
+			3px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 5.928203230275509px
+		)"
+          >
+            <div
+              class="lucid-NotchedTag-container-centered"
+            >
+              LI
+            </div>
+          </div>
+        </div>
+        <span>
+          <span>
+            Bar
+          </span>
+          <span
+            style="font-weight:400"
+          >
+             (1234)
+          </span>
+        </span>
+      </a>
+    </li>
+  </ul>
+</nav>
+`;

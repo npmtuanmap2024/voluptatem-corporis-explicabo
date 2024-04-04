@@ -1,0 +1,556 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SearchableSelect [common] example testing should match snapshot(s) for Basic 1`] = `
+<section
+  style="min-height:120px"
+>
+  <div
+    class="lucid-SearchableSelect"
+  >
+    <div
+      class="lucid-DropMenu lucid-DropMenu-base"
+    >
+      <span
+        class="lucid-ContextMenu"
+      >
+        <div
+          class="lucid-DropMenu-Control"
+          tabindex="0"
+        >
+          <div
+            class="lucid-SearchableSelect-Control"
+            tabindex="0"
+          >
+            <span
+              class="lucid-SearchableSelect-Control-content"
+            >
+              Select State
+            </span>
+            <svg
+              class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+              height="12"
+              preserveAspectRatio="xMidYMid meet"
+              viewBox="0 0 16 16"
+              width="12"
+            >
+              <path
+                d="M.5 4.5l7.5 7 7.5-7"
+              />
+            </svg>
+          </div>
+        </div>
+      </span>
+    </div>
+  </div>
+</section>
+`;
+
+exports[`SearchableSelect [common] example testing should match snapshot(s) for CustomSearchPlaceholder 1`] = `
+<section
+  style="min-height:120px"
+>
+  <div
+    class="lucid-SearchableSelect"
+  >
+    <div
+      class="lucid-DropMenu lucid-DropMenu-base"
+    >
+      <span
+        class="lucid-ContextMenu"
+      >
+        <div
+          class="lucid-DropMenu-Control"
+          tabindex="0"
+        >
+          <div
+            class="lucid-SearchableSelect-Control"
+            tabindex="0"
+          >
+            <span
+              class="lucid-SearchableSelect-Control-content"
+            >
+              Select Color
+            </span>
+            <svg
+              class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+              height="12"
+              preserveAspectRatio="xMidYMid meet"
+              viewBox="0 0 16 16"
+              width="12"
+            >
+              <path
+                d="M.5 4.5l7.5 7 7.5-7"
+              />
+            </svg>
+          </div>
+        </div>
+      </span>
+    </div>
+  </div>
+</section>
+`;
+
+exports[`SearchableSelect [common] example testing should match snapshot(s) for FormattedOptions 1`] = `
+<section
+  style="min-height:120px"
+>
+  <div
+    class="lucid-SearchableSelect"
+  >
+    <div
+      class="lucid-DropMenu lucid-DropMenu-base"
+    >
+      <span
+        class="lucid-ContextMenu"
+      >
+        <div
+          class="lucid-DropMenu-Control"
+          tabindex="0"
+        >
+          <div
+            class="lucid-SearchableSelect-Control"
+            tabindex="0"
+          >
+            <span
+              class="lucid-SearchableSelect-Control-content"
+            >
+              Select Color
+            </span>
+            <svg
+              class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+              height="12"
+              preserveAspectRatio="xMidYMid meet"
+              viewBox="0 0 16 16"
+              width="12"
+            >
+              <path
+                d="M.5 4.5l7.5 7 7.5-7"
+              />
+            </svg>
+          </div>
+        </div>
+      </span>
+    </div>
+  </div>
+</section>
+`;
+
+exports[`SearchableSelect [common] example testing should match snapshot(s) for Invalid 1`] = `
+<section
+  style="min-height:120px"
+>
+  <div
+    class="lucid-SearchableSelect"
+  >
+    <div
+      class="lucid-DropMenu lucid-DropMenu-base"
+    >
+      <span
+        class="lucid-ContextMenu"
+      >
+        <div
+          class="lucid-DropMenu-Control"
+          tabindex="0"
+        >
+          <div
+            class="lucid-SearchableSelect-Control lucid-SearchableSelect-Control-is-error"
+            tabindex="0"
+          >
+            <span
+              class="lucid-SearchableSelect-Control-content"
+            >
+              Select State
+            </span>
+            <svg
+              class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+              height="12"
+              preserveAspectRatio="xMidYMid meet"
+              viewBox="0 0 16 16"
+              width="12"
+            >
+              <path
+                d="M.5 4.5l7.5 7 7.5-7"
+              />
+            </svg>
+          </div>
+        </div>
+      </span>
+    </div>
+    <div
+      class="lucid-SearchableSelect-error-content"
+    >
+      Please choose option California
+    </div>
+  </div>
+</section>
+`;
+
+exports[`SearchableSelect [common] example testing should match snapshot(s) for Invisible 1`] = `
+<section
+  style="min-height:120px"
+>
+  <div
+    class="lucid-SearchableSelect"
+  >
+    <div
+      class="lucid-DropMenu lucid-DropMenu-base"
+    >
+      <span
+        class="lucid-ContextMenu"
+      >
+        <div
+          class="lucid-DropMenu-Control"
+          tabindex="0"
+        >
+          <div
+            class="lucid-SearchableSelect-Control lucid-SearchableSelect-Control-is-invisible"
+            tabindex="0"
+          >
+            <span
+              class="lucid-SearchableSelect-Control-content"
+            >
+              Select State
+            </span>
+            <svg
+              class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+              height="12"
+              preserveAspectRatio="xMidYMid meet"
+              viewBox="0 0 16 16"
+              width="12"
+            >
+              <path
+                d="M.5 4.5l7.5 7 7.5-7"
+              />
+            </svg>
+          </div>
+        </div>
+      </span>
+    </div>
+  </div>
+</section>
+`;
+
+exports[`SearchableSelect [common] example testing should match snapshot(s) for Loading 1`] = `
+<section
+  style="min-height:120px"
+>
+  <div
+    class="lucid-SearchableSelect"
+  >
+    <div
+      class="lucid-DropMenu lucid-DropMenu-base"
+    >
+      <span
+        class="lucid-ContextMenu"
+      >
+        <div
+          class="lucid-DropMenu-Control"
+          tabindex="0"
+        >
+          <div
+            class="lucid-SearchableSelect-Control"
+            tabindex="0"
+          >
+            <span
+              class="lucid-SearchableSelect-Control-content"
+            >
+              Select State
+            </span>
+            <svg
+              class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+              height="12"
+              preserveAspectRatio="xMidYMid meet"
+              viewBox="0 0 16 16"
+              width="12"
+            >
+              <path
+                d="M.5 4.5l7.5 7 7.5-7"
+              />
+            </svg>
+          </div>
+        </div>
+      </span>
+    </div>
+  </div>
+</section>
+`;
+
+exports[`SearchableSelect child elements Option should render Option child function by passing in {searchText}, setting filterText on each option and using a custom optionFilter 1`] = `
+<div
+  className="lucid-SearchableSelect"
+>
+  <DropMenu
+    ContextMenu={
+      Object {
+        "alignment": "start",
+        "direction": "down",
+        "directonOffset": 0,
+        "getAlignmentOffset": [Function],
+        "isExpanded": true,
+        "minWidthOffset": 0,
+        "onClickOut": null,
+        "portalId": null,
+      }
+    }
+    alignment="start"
+    direction="down"
+    flyOutStyle={
+      Object {
+        "maxHeight": "18em",
+      }
+    }
+    focusedIndex={null}
+    isDisabled={false}
+    isExpanded={false}
+    onCollapse={[Function]}
+    onExpand={[Function]}
+    onFocusNext={[Function]}
+    onFocusOption={[Function]}
+    onFocusPrev={[Function]}
+    onSelect={[Function]}
+    optionContainerStyle={Object {}}
+    portalId=""
+    selectedIndices={Array []}
+  >
+    <DropMenu.Control>
+      <div
+        className="lucid-SearchableSelect-Control"
+        tabIndex={0}
+      >
+        <span
+          className="lucid-SearchableSelect-Control-content"
+        >
+          select one
+        </span>
+        <ChevronIcon
+          aspectRatio="xMidYMid meet"
+          color="primary"
+          direction="down"
+          isClickable={false}
+          isDisabled={false}
+          onClick={[Function]}
+          onSelect={[Function]}
+          size={12}
+          viewBox="0 0 16 16"
+        />
+      </div>
+    </DropMenu.Control>
+    <DropMenu.Header
+      className="lucid-SearchableSelect-Search-container"
+    >
+      <SearchField
+        autoComplete="off"
+        debounceLevel={500}
+        isDisabled={false}
+        onChange={[Function]}
+        onChangeDebounced={[Function]}
+        onSubmit={[Function]}
+        placeholder="Search..."
+        value="tion"
+      />
+    </DropMenu.Header>
+    <DropMenu.Option
+      isDisabled={false}
+      isHidden={false}
+      isWrapped={true}
+      key="SearchableSelectOption0"
+      name="OptionA"
+    >
+      <Component
+        searchText="tion"
+      />
+    </DropMenu.Option>
+    <DropMenu.Option
+      isDisabled={false}
+      isHidden={false}
+      isWrapped={true}
+      key="SearchableSelectOption1"
+      name="OptionB"
+    >
+      <Component
+        searchText="tion"
+      />
+    </DropMenu.Option>
+    <DropMenu.Option
+      isDisabled={false}
+      isHidden={false}
+      isWrapped={true}
+      key="SearchableSelectOption2"
+      name="OptionC"
+    >
+      <Component
+        searchText="tion"
+      />
+    </DropMenu.Option>
+  </DropMenu>
+</div>
+`;
+
+exports[`SearchableSelect child elements Option should render Option.Selected in the Placeholder area 1`] = `
+<div
+  className="lucid-SearchableSelect"
+>
+  <DropMenu
+    ContextMenu={
+      Object {
+        "alignment": "start",
+        "direction": "down",
+        "directonOffset": 0,
+        "getAlignmentOffset": [Function],
+        "isExpanded": true,
+        "minWidthOffset": 0,
+        "onClickOut": null,
+        "portalId": null,
+      }
+    }
+    alignment="start"
+    direction="down"
+    flyOutStyle={
+      Object {
+        "maxHeight": "18em",
+      }
+    }
+    focusedIndex={null}
+    isDisabled={false}
+    isExpanded={false}
+    onCollapse={[Function]}
+    onExpand={[Function]}
+    onFocusNext={[Function]}
+    onFocusOption={[Function]}
+    onFocusPrev={[Function]}
+    onSelect={[Function]}
+    optionContainerStyle={Object {}}
+    portalId=""
+    selectedIndices={
+      Array [
+        1,
+      ]
+    }
+  >
+    <DropMenu.Control>
+      <div
+        className="lucid-SearchableSelect-Control lucid-SearchableSelect-Control-is-highlighted lucid-SearchableSelect-Control-is-selected"
+        tabIndex={0}
+      >
+        <span
+          className="lucid-SearchableSelect-Control-content"
+        >
+          option b
+        </span>
+        <ChevronIcon
+          aspectRatio="xMidYMid meet"
+          color="primary"
+          direction="down"
+          isClickable={false}
+          isDisabled={false}
+          onClick={[Function]}
+          onSelect={[Function]}
+          size={12}
+          viewBox="0 0 16 16"
+        />
+      </div>
+    </DropMenu.Control>
+    <DropMenu.Header
+      className="lucid-SearchableSelect-Search-container"
+    >
+      <SearchField
+        autoComplete="off"
+        debounceLevel={500}
+        isDisabled={false}
+        onChange={[Function]}
+        onChangeDebounced={[Function]}
+        onSubmit={[Function]}
+        placeholder="Search..."
+        value=""
+      />
+    </DropMenu.Header>
+    <DropMenu.NullOption>
+      select one
+    </DropMenu.NullOption>
+    <DropMenu.Option
+      isDisabled={false}
+      isHidden={false}
+      isWrapped={true}
+      key="SearchableSelectOption0"
+      name="OptionA"
+    >
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "width": 100,
+            }
+          }
+        >
+          id
+        </div>
+        <div>
+          option a
+        </div>
+      </div>
+    </DropMenu.Option>
+    <DropMenu.Option
+      isDisabled={false}
+      isHidden={false}
+      isWrapped={true}
+      key="SearchableSelectOption1"
+      name="OptionB"
+    >
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "width": 100,
+            }
+          }
+        >
+          id
+        </div>
+        <div>
+          option b
+        </div>
+      </div>
+    </DropMenu.Option>
+    <DropMenu.Option
+      isDisabled={false}
+      isHidden={false}
+      isWrapped={true}
+      key="SearchableSelectOption2"
+      name="OptionC"
+    >
+      <div
+        style={
+          Object {
+            "display": "flex",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "width": 100,
+            }
+          }
+        >
+          id
+        </div>
+        <div>
+          option c
+        </div>
+      </div>
+    </DropMenu.Option>
+  </DropMenu>
+</div>
+`;

@@ -1,0 +1,126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Underline [common] example testing should match snapshot(s) for WithDefaults 1`] = `
+<span
+  class="lucid-Underline"
+>
+  <span
+    style="text-decoration:underline"
+  >
+    foo bar baz
+  </span>
+</span>
+`;
+
+exports[`Underline [common] example testing should match snapshot(s) for WithRegexMatch 1`] = `
+<span
+  class="lucid-Underline"
+>
+  <span
+    style="text-decoration:underline"
+  >
+    foo
+  </span>
+  <span>
+     bar baz
+  </span>
+</span>
+`;
+
+exports[`Underline [common] example testing should match snapshot(s) for WithStringMatch 1`] = `
+<span
+  class="lucid-Underline"
+>
+  <span>
+    foo 
+  </span>
+  <span
+    style="text-decoration:underline"
+  >
+    bar
+  </span>
+  <span>
+     baz
+  </span>
+</span>
+`;
+
+exports[`Underline should match snapshot for default props 1`] = `
+<span
+  className="lucid-Underline"
+>
+  <span
+    style={
+      Object {
+        "textDecoration": "underline",
+      }
+    }
+  />
+</span>
+`;
+
+exports[`Underline should match snapshot for default props with children 1`] = `
+<span
+  className="lucid-Underline"
+>
+  <span
+    key="match"
+    style={
+      Object {
+        "textDecoration": "underline",
+      }
+    }
+  >
+    foo bar baz
+  </span>
+</span>
+`;
+
+exports[`Underline should match snapshot for regex match with children 1`] = `
+<span
+  className="lucid-Underline"
+>
+  <span
+    key="match"
+    style={
+      Object {
+        "textDecoration": "underline",
+      }
+    }
+  >
+    foo
+  </span>
+  <span
+    key="post"
+  >
+     bar baz
+  </span>
+</span>
+`;
+
+exports[`Underline should match snapshot for string match with children 1`] = `
+<span
+  className="lucid-Underline"
+>
+  <span
+    key="pre"
+  >
+    foo 
+  </span>
+  <span
+    key="match"
+    style={
+      Object {
+        "textDecoration": "underline",
+      }
+    }
+  >
+    bar
+  </span>
+  <span
+    key="post"
+  >
+     baz
+  </span>
+</span>
+`;

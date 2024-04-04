@@ -1,0 +1,997 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DraggableList [common] example testing should match snapshot(s) for Basic 1`] = `
+<div
+  class="lucid-DraggableList"
+>
+  <div>
+    <hr
+      class="lucid-DraggableList-Divider"
+    />
+    <div
+      class="lucid-DraggableList-Item"
+      draggable="true"
+    >
+      <div
+        class="lucid-DraggableList-Item-content"
+      >
+        Item One
+      </div>
+      <span
+        class="lucid-DraggableList-Item-handle"
+      >
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+  <div>
+    <hr
+      class="lucid-DraggableList-Divider"
+    />
+    <div
+      class="lucid-DraggableList-Item"
+      draggable="true"
+    >
+      <div
+        class="lucid-DraggableList-Item-content"
+      >
+        Item Two
+      </div>
+      <span
+        class="lucid-DraggableList-Item-handle"
+      >
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+  <div>
+    <hr
+      class="lucid-DraggableList-Divider"
+    />
+    <div
+      class="lucid-DraggableList-Item"
+      draggable="true"
+    >
+      <div
+        class="lucid-DraggableList-Item-content"
+      >
+        Item Three
+      </div>
+      <span
+        class="lucid-DraggableList-Item-handle"
+      >
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+  <div>
+    <hr
+      class="lucid-DraggableList-Divider"
+    />
+    <div
+      class="lucid-DraggableList-Item"
+      draggable="true"
+    >
+      <div
+        class="lucid-DraggableList-Item-content"
+      >
+        Item Four
+      </div>
+      <span
+        class="lucid-DraggableList-Item-handle"
+      >
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+  <div>
+    <hr
+      class="lucid-DraggableList-Divider"
+    />
+    <div
+      class="lucid-DraggableList-Item"
+      draggable="true"
+    >
+      <div
+        class="lucid-DraggableList-Item-content"
+      >
+        Item Five
+      </div>
+      <span
+        class="lucid-DraggableList-Item-handle"
+      >
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+  <hr
+    class="lucid-DraggableList-Divider"
+  />
+</div>
+`;
+
+exports[`DraggableList [common] example testing should match snapshot(s) for NoDragHandle 1`] = `
+<div
+  class="lucid-DraggableList"
+>
+  <div>
+    <hr
+      class="lucid-DraggableList-Divider"
+    />
+    <div
+      class="lucid-DraggableList-Item"
+      draggable="true"
+    >
+      <div
+        class="lucid-DraggableList-Item-content"
+      >
+        Item One
+      </div>
+    </div>
+  </div>
+  <div>
+    <hr
+      class="lucid-DraggableList-Divider"
+    />
+    <div
+      class="lucid-DraggableList-Item"
+      draggable="true"
+    >
+      <div
+        class="lucid-DraggableList-Item-content"
+      >
+        Item Two
+      </div>
+    </div>
+  </div>
+  <div>
+    <hr
+      class="lucid-DraggableList-Divider"
+    />
+    <div
+      class="lucid-DraggableList-Item"
+      draggable="true"
+    >
+      <div
+        class="lucid-DraggableList-Item-content"
+      >
+        Item Three
+      </div>
+    </div>
+  </div>
+  <div>
+    <hr
+      class="lucid-DraggableList-Divider"
+    />
+    <div
+      class="lucid-DraggableList-Item"
+      draggable="true"
+    >
+      <div
+        class="lucid-DraggableList-Item-content"
+      >
+        Item Four
+      </div>
+    </div>
+  </div>
+  <div>
+    <hr
+      class="lucid-DraggableList-Divider"
+    />
+    <div
+      class="lucid-DraggableList-Item"
+      draggable="true"
+    >
+      <div
+        class="lucid-DraggableList-Item-content"
+      >
+        Item Five
+      </div>
+    </div>
+  </div>
+  <hr
+    class="lucid-DraggableList-Divider"
+  />
+</div>
+`;
+
+exports[`DraggableList [common] example testing should match snapshot(s) for WithChildren 1`] = `
+<div
+  class="lucid-DraggableList"
+  style="width:500px"
+>
+  <div>
+    <hr
+      class="lucid-DraggableList-Divider"
+    />
+    <div
+      class="lucid-DraggableList-Item"
+      draggable="true"
+    >
+      <div
+        class="lucid-DraggableList-Item-content"
+      >
+        <div
+          style="display:flex;align-items:center;height:50px"
+        >
+          <label
+            class="lucid-CheckboxLabeled"
+          >
+            <div
+              class="lucid-Checkbox lucid-CheckboxLabeled-Checkbox"
+            >
+              <input
+                class="lucid-Checkbox-native"
+                type="checkbox"
+              />
+              <span
+                class="lucid-Checkbox-visualization-glow"
+              />
+              <span
+                class="lucid-Checkbox-visualization-container"
+              />
+              <span
+                class="lucid-Checkbox-visualization-checkmark"
+              >
+                <span
+                  class="lucid-Checkbox-visualization-checkmark-stem"
+                />
+                <span
+                  class="lucid-Checkbox-visualization-checkmark-kick"
+                />
+              </span>
+            </div>
+            <div
+              class="lucid-CheckboxLabeled-label"
+            >
+              Item One
+            </div>
+          </label>
+        </div>
+      </div>
+      <span
+        class="lucid-DraggableList-Item-handle"
+      >
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+  <div>
+    <hr
+      class="lucid-DraggableList-Divider"
+    />
+    <div
+      class="lucid-DraggableList-Item"
+      draggable="true"
+    >
+      <div
+        class="lucid-DraggableList-Item-content"
+      >
+        <div
+          style="display:flex;align-items:center;height:50px"
+        >
+          <label
+            class="lucid-CheckboxLabeled"
+          >
+            <div
+              class="lucid-Checkbox lucid-CheckboxLabeled-Checkbox"
+            >
+              <input
+                class="lucid-Checkbox-native"
+                type="checkbox"
+              />
+              <span
+                class="lucid-Checkbox-visualization-glow"
+              />
+              <span
+                class="lucid-Checkbox-visualization-container"
+              />
+              <span
+                class="lucid-Checkbox-visualization-checkmark"
+              >
+                <span
+                  class="lucid-Checkbox-visualization-checkmark-stem"
+                />
+                <span
+                  class="lucid-Checkbox-visualization-checkmark-kick"
+                />
+              </span>
+            </div>
+            <div
+              class="lucid-CheckboxLabeled-label"
+            >
+              Item Two
+            </div>
+          </label>
+        </div>
+      </div>
+      <span
+        class="lucid-DraggableList-Item-handle"
+      >
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+  <div>
+    <hr
+      class="lucid-DraggableList-Divider"
+    />
+    <div
+      class="lucid-DraggableList-Item"
+      draggable="true"
+    >
+      <div
+        class="lucid-DraggableList-Item-content"
+      >
+        <div
+          style="display:flex;align-items:center;height:50px"
+        >
+          <label
+            class="lucid-CheckboxLabeled"
+          >
+            <div
+              class="lucid-Checkbox lucid-CheckboxLabeled-Checkbox"
+            >
+              <input
+                class="lucid-Checkbox-native"
+                type="checkbox"
+              />
+              <span
+                class="lucid-Checkbox-visualization-glow"
+              />
+              <span
+                class="lucid-Checkbox-visualization-container"
+              />
+              <span
+                class="lucid-Checkbox-visualization-checkmark"
+              >
+                <span
+                  class="lucid-Checkbox-visualization-checkmark-stem"
+                />
+                <span
+                  class="lucid-Checkbox-visualization-checkmark-kick"
+                />
+              </span>
+            </div>
+            <div
+              class="lucid-CheckboxLabeled-label"
+            >
+              Item Three
+            </div>
+          </label>
+        </div>
+      </div>
+      <span
+        class="lucid-DraggableList-Item-handle"
+      >
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+  <div>
+    <hr
+      class="lucid-DraggableList-Divider"
+    />
+    <div
+      class="lucid-DraggableList-Item"
+      draggable="true"
+    >
+      <div
+        class="lucid-DraggableList-Item-content"
+      >
+        <div
+          style="display:flex;align-items:center;height:50px"
+        >
+          <label
+            class="lucid-CheckboxLabeled"
+          >
+            <div
+              class="lucid-Checkbox lucid-CheckboxLabeled-Checkbox"
+            >
+              <input
+                class="lucid-Checkbox-native"
+                type="checkbox"
+              />
+              <span
+                class="lucid-Checkbox-visualization-glow"
+              />
+              <span
+                class="lucid-Checkbox-visualization-container"
+              />
+              <span
+                class="lucid-Checkbox-visualization-checkmark"
+              >
+                <span
+                  class="lucid-Checkbox-visualization-checkmark-stem"
+                />
+                <span
+                  class="lucid-Checkbox-visualization-checkmark-kick"
+                />
+              </span>
+            </div>
+            <div
+              class="lucid-CheckboxLabeled-label"
+            >
+              Item Four
+            </div>
+          </label>
+        </div>
+      </div>
+      <span
+        class="lucid-DraggableList-Item-handle"
+      >
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+  <div>
+    <hr
+      class="lucid-DraggableList-Divider"
+    />
+    <div
+      class="lucid-DraggableList-Item"
+      draggable="true"
+    >
+      <div
+        class="lucid-DraggableList-Item-content"
+      >
+        <div
+          style="display:flex;align-items:center;height:50px"
+        >
+          <label
+            class="lucid-CheckboxLabeled"
+          >
+            <div
+              class="lucid-Checkbox lucid-CheckboxLabeled-Checkbox"
+            >
+              <input
+                class="lucid-Checkbox-native"
+                type="checkbox"
+              />
+              <span
+                class="lucid-Checkbox-visualization-glow"
+              />
+              <span
+                class="lucid-Checkbox-visualization-container"
+              />
+              <span
+                class="lucid-Checkbox-visualization-checkmark"
+              >
+                <span
+                  class="lucid-Checkbox-visualization-checkmark-stem"
+                />
+                <span
+                  class="lucid-Checkbox-visualization-checkmark-kick"
+                />
+              </span>
+            </div>
+            <div
+              class="lucid-CheckboxLabeled-label"
+            >
+              Item Five
+            </div>
+          </label>
+        </div>
+      </div>
+      <span
+        class="lucid-DraggableList-Item-handle"
+      >
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-DotsIcon"
+          height="8"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="8"
+        >
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="8"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="14.5"
+            cy="8"
+            r="1"
+          />
+          <circle
+            class="lucid-DotsIcon-color-primary"
+            cx="1.5"
+            cy="8"
+            r="1"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+  <hr
+    class="lucid-DraggableList-Divider"
+  />
+</div>
+`;

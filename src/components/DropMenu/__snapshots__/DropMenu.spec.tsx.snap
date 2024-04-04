@@ -1,0 +1,222 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DropMenu [common] example testing should match snapshot(s) for ActionMenu 1`] = `
+<div
+  class="lucid-DropMenu lucid-DropMenu-base"
+>
+  <span
+    class="lucid-ContextMenu"
+  >
+    <div
+      class="lucid-DropMenu-Control"
+      tabindex="0"
+    >
+      Select Color
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        style="margin-left:5px"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 4.5l7.5 7 7.5-7"
+        />
+      </svg>
+    </div>
+  </span>
+</div>
+`;
+
+exports[`DropMenu [common] example testing should match snapshot(s) for Basic 1`] = `
+<div
+  class="lucid-DropMenu lucid-DropMenu-base"
+>
+  <span
+    class="lucid-ContextMenu"
+  >
+    <div
+      class="lucid-DropMenu-Control"
+      tabindex="0"
+    >
+      Select OS
+    </div>
+  </span>
+</div>
+`;
+
+exports[`DropMenu [common] example testing should match snapshot(s) for ButtonMenu 1`] = `
+<div
+  class="lucid-DropMenu lucid-DropMenu-base"
+>
+  <span
+    class="lucid-ContextMenu"
+  >
+    <div
+      class="lucid-DropMenu-Control"
+      tabindex="0"
+    >
+      <button
+        class="lucid-Button"
+        style="min-width:90px"
+        type="button"
+      >
+        <span
+          class="lucid-Button-content"
+        >
+          Select Color
+        </span>
+      </button>
+    </div>
+  </span>
+</div>
+`;
+
+exports[`DropMenu [common] example testing should match snapshot(s) for DisabledControl 1`] = `
+<div
+  class="lucid-DropMenu lucid-DropMenu-base"
+>
+  <span
+    class="lucid-ContextMenu"
+  >
+    <div
+      class="lucid-DropMenu-Control"
+    >
+      <button
+        class="lucid-Button"
+        tabindex="-1"
+        type="button"
+      >
+        <span
+          class="lucid-Button-content"
+        >
+          Select Color
+        </span>
+      </button>
+    </div>
+  </span>
+</div>
+`;
+
+exports[`DropMenu [common] example testing should match snapshot(s) for DisabledOptions 1`] = `
+<div
+  class="lucid-DropMenu lucid-DropMenu-base"
+>
+  <span
+    class="lucid-ContextMenu"
+  >
+    <div
+      class="lucid-DropMenu-Control"
+      tabindex="0"
+    >
+      Select Color
+    </div>
+  </span>
+</div>
+`;
+
+exports[`DropMenu [common] example testing should match snapshot(s) for GroupedOptions 1`] = `
+<div
+  class="lucid-DropMenu lucid-DropMenu-base"
+>
+  <span
+    class="lucid-ContextMenu"
+  >
+    <div
+      class="lucid-DropMenu-Control"
+      tabindex="0"
+    >
+      <button
+        class="lucid-Button"
+        type="button"
+      >
+        <span
+          class="lucid-Button-content"
+        >
+          Select Color
+        </span>
+      </button>
+    </div>
+  </span>
+</div>
+`;
+
+exports[`DropMenu [common] example testing should match snapshot(s) for NoWrapping 1`] = `
+<div
+  style="text-align:right"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <button
+          class="lucid-Button"
+          type="button"
+        >
+          <span
+            class="lucid-Button-content"
+          >
+            Click Me
+          </span>
+        </button>
+      </div>
+    </span>
+  </div>
+</div>
+`;
+
+exports[`DropMenu [common] example testing should match snapshot(s) for Stateless 1`] = `
+<div
+  class="lucid-DropMenu lucid-DropMenu-base lucid-DropMenu-is-expanded lucid-DropMenu-direction-down"
+>
+  <span
+    class="lucid-ContextMenu"
+  >
+    <div
+      class="lucid-DropMenu-Control"
+      tabindex="0"
+    >
+      <button
+        class="lucid-Button"
+        type="button"
+      >
+        <span
+          class="lucid-Button-content"
+        >
+          Select Color
+        </span>
+      </button>
+    </div>
+  </span>
+</div>
+`;
+
+exports[`DropMenu [common] example testing should match snapshot(s) for TextMenu 1`] = `
+<div
+  class="lucid-DropMenu lucid-DropMenu-base"
+>
+  <span
+    class="lucid-ContextMenu"
+  >
+    <div
+      class="lucid-DropMenu-Control"
+      tabindex="0"
+    >
+      <input
+        class="lucid-TextField lucid-TextField-is-single-line"
+        placeholder="Text DropMenu"
+        rows="5"
+        type="text"
+        value=""
+      />
+    </div>
+  </span>
+</div>
+`;

@@ -1,0 +1,136 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dialog [common] example testing should match snapshot(s) for Basic 1`] = `
+<div>
+  <button
+    class="lucid-Button lucid-Button-large"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      Toggle
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Dialog [common] example testing should match snapshot(s) for Complex 1`] = `
+<div>
+  <button
+    class="lucid-Button lucid-Button-large"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      Toggle
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Dialog [common] example testing should match snapshot(s) for LargeWithRichHeader 1`] = `
+<div>
+  <button
+    class="lucid-Button lucid-Button-large"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      Toggle
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Dialog [common] example testing should match snapshot(s) for Medium 1`] = `
+<div>
+  <button
+    class="lucid-Button lucid-Button-large"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      Toggle
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Dialog [common] example testing should match snapshot(s) for NoCloseButton 1`] = `
+<div>
+  <button
+    class="lucid-Button lucid-Button-large"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      Toggle
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Dialog [common] example testing should match snapshot(s) for NoFooter 1`] = `
+<div>
+  <button
+    class="lucid-Button lucid-Button-large"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      Toggle
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Dialog [common] example testing should match snapshot(s) for NoGutters 1`] = `
+<div>
+  <button
+    class="lucid-Button lucid-Button-large"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      Toggle
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Dialog [common] example testing should match snapshot(s) for NoModal 1`] = `
+<div>
+  <button
+    class="lucid-Button lucid-Button-large"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      Toggle
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Dialog [common] example testing should match snapshot(s) for Small 1`] = `
+<div>
+  <button
+    class="lucid-Button lucid-Button-large"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      Toggle
+    </span>
+  </button>
+</div>
+`;

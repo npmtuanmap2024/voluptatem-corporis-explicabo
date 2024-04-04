@@ -1,0 +1,2227 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tag [common] example testing should match snapshot(s) for Basic 1`] = `
+<div>
+  <div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Amet
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        nam
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        quibusdam
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        nobis
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        autem
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        sapiente
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+  <div>
+    <div
+      class="lucid-Tag lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Fruits
+      </span>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Apples
+        </span>
+      </div>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Oranges
+        </span>
+      </div>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Bananas
+        </span>
+      </div>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Vegetables
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Carrots
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+            height="7"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="7"
+          >
+            <path
+              d="M.5.5l15 15m0-15l-15 15"
+            />
+          </svg>
+        </span>
+      </div>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Spinach
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+            height="7"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="7"
+          >
+            <path
+              d="M.5.5l15 15m0-15l-15 15"
+            />
+          </svg>
+        </span>
+      </div>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Celery
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+            height="7"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="7"
+          >
+            <path
+              d="M.5.5l15 15m0-15l-15 15"
+            />
+          </svg>
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tag [common] example testing should match snapshot(s) for Colors 1`] = `
+<div>
+  <div
+    class="lucid-Tag lucid-Tag-has-light-background lucid-Tag-default"
+  >
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-info"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        notitia
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-danger"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        periculum
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        deficio
+      </span>
+    </div>
+  </div>
+  <div
+    class="lucid-Tag lucid-Tag-has-light-background lucid-Tag-default"
+  >
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-info"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        notitia
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-danger"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        periculum
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tag [common] example testing should match snapshot(s) for DoubleNested 1`] = `
+<div>
+  <div
+    class="lucid-Tag lucid-Tag-is-top lucid-Tag-has-light-background lucid-Tag-default"
+  >
+    <span
+      class="lucid-Tag-other-children"
+    >
+      Global:
+    </span>
+    <div
+      class="lucid-Tag lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Group 1
+      </span>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Fashion
+        </span>
+      </div>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          The
+        </span>
+      </div>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Vexillologist
+        </span>
+      </div>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Cold Brew
+        </span>
+      </div>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Group 2
+      </span>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Fashion
+        </span>
+      </div>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          The
+        </span>
+      </div>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Vexillologist
+        </span>
+      </div>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Cold Brew
+        </span>
+      </div>
+    </div>
+  </div>
+  <div
+    class="lucid-Tag lucid-Tag-is-top lucid-Tag-has-light-background lucid-Tag-default"
+  >
+    <span
+      class="lucid-Tag-other-children"
+    >
+      In-Progess:
+    </span>
+    <div
+      class="lucid-Tag lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Group 1
+      </span>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Fashion
+        </span>
+      </div>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          The
+        </span>
+      </div>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Vexillologist
+        </span>
+      </div>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Cold Brew
+        </span>
+      </div>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Group 2
+      </span>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Fashion
+        </span>
+      </div>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          The
+        </span>
+      </div>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Vexillologist
+        </span>
+      </div>
+      <div
+        class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+      >
+        <span
+          class="lucid-Tag-other-children"
+        >
+          Cold Brew
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tag [common] example testing should match snapshot(s) for Interactive 1`] = `
+<div>
+  <div
+    class="lucid-Tag lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+  >
+    <span
+      class="lucid-Tag-other-children"
+    >
+      Last Man on Earth
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+        height="7"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="7"
+      >
+        <path
+          d="M.5.5l15 15m0-15l-15 15"
+        />
+      </svg>
+    </span>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Phil
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+  <div
+    class="lucid-Tag lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+  >
+    <span
+      class="lucid-Tag-other-children"
+    >
+      Last Woman on Earth
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+        height="7"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="7"
+      >
+        <path
+          d="M.5.5l15 15m0-15l-15 15"
+        />
+      </svg>
+    </span>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Carol
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+  <div
+    class="lucid-Tag lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+  >
+    <span
+      class="lucid-Tag-other-children"
+    >
+      Star Wars
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+        height="7"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="7"
+      >
+        <path
+          d="M.5.5l15 15m0-15l-15 15"
+        />
+      </svg>
+    </span>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Ask Aak
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Admiral Gial Ackbar
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Acros-Krik
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Ak-Rev
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Stass Allie
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Almec
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Mas Amedda
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Amee
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Padmé Amidala
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Cassian Andor
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Bail Antilles
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Raymus Antilles
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Wedge Antilles
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Queen Apailana
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Commander Appo
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Passel Argente
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Faro Argyus
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Seti Ashgad
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        AZI-3
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+  <div
+    class="lucid-Tag lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+  >
+    <span
+      class="lucid-Tag-other-children"
+    >
+      Lord of the Rings
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+        height="7"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="7"
+      >
+        <path
+          d="M.5.5l15 15m0-15l-15 15"
+        />
+      </svg>
+    </span>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Adrahil
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Adrahil II
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Aegnor
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Aerandir
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Aghan
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Aglahad
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Ailinel
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Alatar
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Aldamir
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Aldor
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Almarian
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Almiel
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Amandil
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Amdír
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Amlaith
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Amrod
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Amroth
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Anardil
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Anborn
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Ancalagon The Black
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Andróg
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Angbor
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Angelimar
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Angelimir
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Angrod
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Anárion
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Ar-Adûnakhôr
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Ar-Gimilzôr
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Ar-Pharazôn
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Ar-Sakalthôr
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Ar-Zimrathôn
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Arador
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Araglas
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Aragorn I
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Aragorn II Elessar
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+  <div
+    class="lucid-Tag lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+  >
+    <span
+      class="lucid-Tag-other-children"
+    >
+      Star Trek
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+        height="7"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="7"
+      >
+        <path
+          d="M.5.5l15 15m0-15l-15 15"
+        />
+      </svg>
+    </span>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Jonathan Archer
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Ayala
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Azan
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Reginald Barclay
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Lieutenant, JG (TNG,FCT)
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Engineering Officer (TNG,Movies)
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Bareil Antos
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Julian Bashir
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Season 6 (TNG)
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Lieutenant, JG (S1-3)
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tag [common] example testing should match snapshot(s) for Nested 1`] = `
+<div>
+  <div
+    class="lucid-Tag lucid-Tag-has-light-background lucid-Tag-default"
+  >
+    <span
+      class="lucid-Tag-other-children"
+    >
+      Grouped items
+    </span>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Fashion
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        The
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Vexillologist
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Cold Brew
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        This is a longer sentence that should be handled okay
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Fashion
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        The
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Vexillologist
+      </span>
+    </div>
+  </div>
+  <div
+    class="lucid-Tag lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+  >
+    <span
+      class="lucid-Tag-other-children"
+    >
+      Grouped items
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+        height="7"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="7"
+      >
+        <path
+          d="M.5.5l15 15m0-15l-15 15"
+        />
+      </svg>
+    </span>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Fashion
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        The
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Vexillologist
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Cold Brew
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        This is a longer sentence that should be handled okay
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Fashion
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        The
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Vexillologist
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        Cold Brew
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+    <div
+      class="lucid-Tag lucid-Tag-is-leaf lucid-Tag-is-removable lucid-Tag-has-light-background lucid-Tag-default"
+    >
+      <span
+        class="lucid-Tag-other-children"
+      >
+        This is a longer sentence that should be handled okay
+        <svg
+          class="lucid-Icon lucid-Icon-color-primary lucid-Icon-is-clickable lucid-CloseIcon lucid-CloseIcon-is-clickable lucid-Tag-remove-button"
+          height="7"
+          preserveAspectRatio="xMidYMid meet"
+          viewBox="0 0 16 16"
+          width="7"
+        >
+          <path
+            d="M.5.5l15 15m0-15l-15 15"
+          />
+        </svg>
+      </span>
+    </div>
+  </div>
+</div>
+`;

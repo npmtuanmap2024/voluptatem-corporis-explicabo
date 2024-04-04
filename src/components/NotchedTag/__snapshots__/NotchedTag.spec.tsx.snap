@@ -1,0 +1,336 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotchedTag [common] example testing should match snapshot(s) for Basic 1`] = `
+<div>
+  <div>
+    <div
+      class="lucid-NotchedTag lucid-NotchedTag-style-one lucid-NotchedTag-large"
+      style="display:inline-block;margin-right:10px;height:24px;width:40px;clip-path:polygon(
+			5px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 8.660254037844386px
+		)"
+    >
+      <div
+        class="lucid-NotchedTag-container"
+        style="top:2px;right:2px;left:2px;bottom:2px;clip-path:polygon(
+			4px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 7.6602540378443855px
+		)"
+      >
+        <div
+          class="lucid-NotchedTag-container-centered"
+        >
+          ADV
+        </div>
+      </div>
+    </div>
+    <div
+      class="lucid-NotchedTag lucid-NotchedTag-style-one lucid-NotchedTag-small"
+      style="display:inline-block;margin-right:10px;height:18px;width:30px;clip-path:polygon(
+			4px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 6.928203230275509px
+		)"
+    >
+      <div
+        class="lucid-NotchedTag-container"
+        style="top:2px;right:2px;left:2px;bottom:2px;clip-path:polygon(
+			3px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 5.928203230275509px
+		)"
+      >
+        <div
+          class="lucid-NotchedTag-container-centered"
+        >
+          ADV
+        </div>
+      </div>
+    </div>
+    <div
+      class="lucid-NotchedTag lucid-NotchedTag-style-one lucid-NotchedTag-large lucid-NotchedTag-no-border"
+      style="display:inline-block;margin-right:10px;height:24px;width:40px;clip-path:polygon(
+			5px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 8.660254037844386px
+		)"
+    >
+      <div
+        class="lucid-NotchedTag-container lucid-NotchedTag-container-filled"
+        style="top:2px;right:2px;left:2px;bottom:2px;clip-path:polygon(
+			4px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 7.6602540378443855px
+		)"
+      >
+        <div
+          class="lucid-NotchedTag-container-centered"
+        >
+          ADV
+        </div>
+      </div>
+    </div>
+    <div
+      class="lucid-NotchedTag lucid-NotchedTag-style-one lucid-NotchedTag-small lucid-NotchedTag-no-border"
+      style="display:inline-block;margin-right:10px;height:18px;width:30px;clip-path:polygon(
+			4px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 6.928203230275509px
+		)"
+    >
+      <div
+        class="lucid-NotchedTag-container lucid-NotchedTag-container-filled"
+        style="top:2px;right:2px;left:2px;bottom:2px;clip-path:polygon(
+			3px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 5.928203230275509px
+		)"
+      >
+        <div
+          class="lucid-NotchedTag-container-centered"
+        >
+          ADV
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      class="lucid-NotchedTag lucid-NotchedTag-style-two lucid-NotchedTag-large"
+      style="display:inline-block;margin-right:10px;height:24px;width:40px;clip-path:polygon(
+			5px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 8.660254037844386px
+		)"
+    >
+      <div
+        class="lucid-NotchedTag-container"
+        style="top:2px;right:2px;left:2px;bottom:2px;clip-path:polygon(
+			4px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 7.6602540378443855px
+		)"
+      >
+        <div
+          class="lucid-NotchedTag-container-centered"
+        >
+          IO
+        </div>
+      </div>
+    </div>
+    <div
+      class="lucid-NotchedTag lucid-NotchedTag-style-two lucid-NotchedTag-small"
+      style="display:inline-block;margin-right:10px;height:18px;width:30px;clip-path:polygon(
+			4px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 6.928203230275509px
+		)"
+    >
+      <div
+        class="lucid-NotchedTag-container"
+        style="top:2px;right:2px;left:2px;bottom:2px;clip-path:polygon(
+			3px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 5.928203230275509px
+		)"
+      >
+        <div
+          class="lucid-NotchedTag-container-centered"
+        >
+          IO
+        </div>
+      </div>
+    </div>
+    <div
+      class="lucid-NotchedTag lucid-NotchedTag-style-two lucid-NotchedTag-large lucid-NotchedTag-no-border"
+      style="display:inline-block;margin-right:10px;height:24px;width:40px;clip-path:polygon(
+			5px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 8.660254037844386px
+		)"
+    >
+      <div
+        class="lucid-NotchedTag-container lucid-NotchedTag-container-filled"
+        style="top:2px;right:2px;left:2px;bottom:2px;clip-path:polygon(
+			4px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 7.6602540378443855px
+		)"
+      >
+        <div
+          class="lucid-NotchedTag-container-centered"
+        >
+          IO
+        </div>
+      </div>
+    </div>
+    <div
+      class="lucid-NotchedTag lucid-NotchedTag-style-two lucid-NotchedTag-small lucid-NotchedTag-no-border"
+      style="display:inline-block;margin-right:10px;height:18px;width:30px;clip-path:polygon(
+			4px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 6.928203230275509px
+		)"
+    >
+      <div
+        class="lucid-NotchedTag-container lucid-NotchedTag-container-filled"
+        style="top:2px;right:2px;left:2px;bottom:2px;clip-path:polygon(
+			3px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 5.928203230275509px
+		)"
+      >
+        <div
+          class="lucid-NotchedTag-container-centered"
+        >
+          IO
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      class="lucid-NotchedTag lucid-NotchedTag-style-three lucid-NotchedTag-large"
+      style="display:inline-block;margin-right:10px;height:24px;width:40px;clip-path:polygon(
+			5px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 8.660254037844386px
+		)"
+    >
+      <div
+        class="lucid-NotchedTag-container"
+        style="top:2px;right:2px;left:2px;bottom:2px;clip-path:polygon(
+			4px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 7.6602540378443855px
+		)"
+      >
+        <div
+          class="lucid-NotchedTag-container-centered"
+        >
+          LI
+        </div>
+      </div>
+    </div>
+    <div
+      class="lucid-NotchedTag lucid-NotchedTag-style-three lucid-NotchedTag-small"
+      style="display:inline-block;margin-right:10px;height:18px;width:30px;clip-path:polygon(
+			4px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 6.928203230275509px
+		)"
+    >
+      <div
+        class="lucid-NotchedTag-container"
+        style="top:2px;right:2px;left:2px;bottom:2px;clip-path:polygon(
+			3px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 5.928203230275509px
+		)"
+      >
+        <div
+          class="lucid-NotchedTag-container-centered"
+        >
+          LI
+        </div>
+      </div>
+    </div>
+    <div
+      class="lucid-NotchedTag lucid-NotchedTag-style-three lucid-NotchedTag-large lucid-NotchedTag-no-border"
+      style="display:inline-block;margin-right:10px;height:24px;width:40px;clip-path:polygon(
+			5px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 8.660254037844386px
+		)"
+    >
+      <div
+        class="lucid-NotchedTag-container lucid-NotchedTag-container-filled"
+        style="top:2px;right:2px;left:2px;bottom:2px;clip-path:polygon(
+			4px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 7.6602540378443855px
+		)"
+      >
+        <div
+          class="lucid-NotchedTag-container-centered"
+        >
+          LI
+        </div>
+      </div>
+    </div>
+    <div
+      class="lucid-NotchedTag lucid-NotchedTag-style-three lucid-NotchedTag-small lucid-NotchedTag-no-border"
+      style="display:inline-block;margin-right:10px;height:18px;width:30px;clip-path:polygon(
+			4px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 6.928203230275509px
+		)"
+    >
+      <div
+        class="lucid-NotchedTag-container lucid-NotchedTag-container-filled"
+        style="top:2px;right:2px;left:2px;bottom:2px;clip-path:polygon(
+			3px 0,
+			100% 0,
+			100% 100%,
+			0 100%,
+			0 5.928203230275509px
+		)"
+      >
+        <div
+          class="lucid-NotchedTag-container-centered"
+        >
+          LI
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

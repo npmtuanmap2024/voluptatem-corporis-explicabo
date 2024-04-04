@@ -1,0 +1,104 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextFieldValidated [common] example testing should match snapshot(s) for Basic 1`] = `
+<div
+  class="lucid-Validation lucid-TextFieldValidated"
+>
+  <input
+    class="lucid-TextField lucid-TextField-is-single-line"
+    rows="5"
+    type="text"
+    value=""
+  />
+</div>
+`;
+
+exports[`TextFieldValidated [common] example testing should match snapshot(s) for Debounced 1`] = `
+<div>
+  <div
+    class="lucid-Validation lucid-Validation-is-error lucid-TextFieldValidated"
+    style="margin-bottom:10px"
+  >
+    <input
+      class="lucid-TextField lucid-TextField-is-single-line"
+      rows="5"
+      type="text"
+      value=""
+    />
+    <div
+      class="lucid-Validation-error-content"
+    >
+      Please enter "foo"
+    </div>
+  </div>
+</div>
+`;
+
+exports[`TextFieldValidated [common] example testing should match snapshot(s) for ErrorTypes 1`] = `
+<div>
+  <div
+    class="lucid-Validation lucid-Validation-is-error lucid-TextFieldValidated"
+    style="margin-bottom:10px"
+  >
+    <input
+      class="lucid-TextField lucid-TextField-is-single-line"
+      rows="5"
+      type="text"
+      value=""
+    />
+    <div
+      class="lucid-Validation-error-content"
+    >
+      This is an error
+    </div>
+  </div>
+  <div
+    class="lucid-Validation lucid-Validation-is-error lucid-TextFieldValidated -info"
+    style="margin-bottom:10px"
+  >
+    <input
+      class="lucid-TextField lucid-TextField-is-single-line"
+      rows="5"
+      type="text"
+      value=""
+    />
+    <div
+      class="lucid-Validation-error-content"
+    >
+      This is an info
+    </div>
+  </div>
+  <div
+    class="lucid-Validation lucid-Validation-is-error lucid-TextFieldValidated -success"
+    style="margin-bottom:10px"
+  >
+    <input
+      class="lucid-TextField lucid-TextField-is-single-line"
+      rows="5"
+      type="text"
+      value=""
+    />
+    <div
+      class="lucid-Validation-error-content"
+    >
+      This is a Success
+    </div>
+  </div>
+  <div
+    class="lucid-Validation lucid-Validation-is-error lucid-TextFieldValidated -success -disappearing"
+    style="margin-bottom:10px"
+  >
+    <input
+      class="lucid-TextField lucid-TextField-is-single-line"
+      rows="5"
+      type="text"
+      value=""
+    />
+    <div
+      class="lucid-Validation-error-content"
+    >
+      This is a disappearing Success
+    </div>
+  </div>
+</div>
+`;

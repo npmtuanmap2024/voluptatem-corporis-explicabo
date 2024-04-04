@@ -1,0 +1,435 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SplitButton [common] example testing should match snapshot(s) for Basic 1`] = `
+<section>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SplitButton"
+    style="margin-right:20px;height:100px"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <span
+          class="lucid-ButtonGroup"
+        >
+          <button
+            class="lucid-Button lucid-SplitButton-Button-primary"
+            type="button"
+          >
+            <span
+              class="lucid-Button-content"
+            >
+              Basic
+            </span>
+          </button>
+          <button
+            class="lucid-Button lucid-Button-has-only-icon lucid-SplitButton-Button-drop"
+            type="button"
+          >
+            <span
+              class="lucid-Button-content"
+            >
+              <svg
+                class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down lucid-SplitButton-ChevronIcon"
+                height="10"
+                preserveAspectRatio="xMidYMid meet"
+                viewBox="0 0 16 16"
+                width="10"
+              >
+                <path
+                  d="M.5 4.5l7.5 7 7.5-7"
+                />
+              </svg>
+            </span>
+          </button>
+        </span>
+      </div>
+    </span>
+  </div>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SplitButton"
+    style="margin-right:20px;height:100px"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <span
+          class="lucid-ButtonGroup"
+        >
+          <button
+            class="lucid-Button lucid-Button-primary lucid-SplitButton-Button-primary"
+            type="button"
+          >
+            <span
+              class="lucid-Button-content"
+            >
+              Primary
+            </span>
+          </button>
+          <button
+            class="lucid-Button lucid-Button-primary lucid-Button-has-only-icon lucid-SplitButton-Button-drop"
+            type="button"
+          >
+            <span
+              class="lucid-Button-content"
+            >
+              <svg
+                class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down lucid-SplitButton-ChevronIcon"
+                height="10"
+                preserveAspectRatio="xMidYMid meet"
+                viewBox="0 0 16 16"
+                width="10"
+              >
+                <path
+                  d="M.5 4.5l7.5 7 7.5-7"
+                />
+              </svg>
+            </span>
+          </button>
+        </span>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SplitButton [common] example testing should match snapshot(s) for Disabled 1`] = `
+<section
+  style="height:100px"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SplitButton"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <span
+          class="lucid-ButtonGroup"
+        >
+          <button
+            class="lucid-Button lucid-Button-is-disabled lucid-SplitButton-Button-primary"
+            disabled=""
+            type="button"
+          >
+            <span
+              class="lucid-Button-content"
+            >
+              Save
+            </span>
+          </button>
+          <button
+            class="lucid-Button lucid-Button-has-only-icon lucid-SplitButton-Button-drop"
+            type="button"
+          >
+            <span
+              class="lucid-Button-content"
+            >
+              <svg
+                class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down lucid-SplitButton-ChevronIcon"
+                height="10"
+                preserveAspectRatio="xMidYMid meet"
+                viewBox="0 0 16 16"
+                width="10"
+              >
+                <path
+                  d="M.5 4.5l7.5 7 7.5-7"
+                />
+              </svg>
+            </span>
+          </button>
+        </span>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SplitButton [common] example testing should match snapshot(s) for Sizes 1`] = `
+<section>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SplitButton"
+    style="margin-right:20px;height:100px"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <span
+          class="lucid-ButtonGroup"
+        >
+          <button
+            class="lucid-Button lucid-Button-large lucid-SplitButton-Button-primary"
+            type="button"
+          >
+            <span
+              class="lucid-Button-content"
+            >
+              Large
+            </span>
+          </button>
+          <button
+            class="lucid-Button lucid-Button-large lucid-Button-has-only-icon lucid-SplitButton-Button-drop"
+            type="button"
+          >
+            <span
+              class="lucid-Button-content"
+            >
+              <svg
+                class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down lucid-SplitButton-ChevronIcon"
+                height="10"
+                preserveAspectRatio="xMidYMid meet"
+                viewBox="0 0 16 16"
+                width="10"
+              >
+                <path
+                  d="M.5 4.5l7.5 7 7.5-7"
+                />
+              </svg>
+            </span>
+          </button>
+        </span>
+      </div>
+    </span>
+  </div>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SplitButton"
+    style="margin-right:20px;height:100px"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <span
+          class="lucid-ButtonGroup"
+        >
+          <button
+            class="lucid-Button lucid-Button-small lucid-SplitButton-Button-primary"
+            type="button"
+          >
+            <span
+              class="lucid-Button-content"
+            >
+              Small
+            </span>
+          </button>
+          <button
+            class="lucid-Button lucid-Button-small lucid-Button-has-only-icon lucid-SplitButton-Button-drop"
+            type="button"
+          >
+            <span
+              class="lucid-Button-content"
+            >
+              <svg
+                class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down lucid-SplitButton-ChevronIcon"
+                height="10"
+                preserveAspectRatio="xMidYMid meet"
+                viewBox="0 0 16 16"
+                width="10"
+              >
+                <path
+                  d="M.5 4.5l7.5 7 7.5-7"
+                />
+              </svg>
+            </span>
+          </button>
+        </span>
+      </div>
+    </span>
+  </div>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SplitButton"
+    style="margin-right:20px;height:100px"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <span
+          class="lucid-ButtonGroup"
+        >
+          <button
+            class="lucid-Button lucid-Button-short lucid-SplitButton-Button-primary"
+            type="button"
+          >
+            <span
+              class="lucid-Button-content"
+            >
+              Short
+            </span>
+          </button>
+          <button
+            class="lucid-Button lucid-Button-short lucid-Button-has-only-icon lucid-SplitButton-Button-drop"
+            type="button"
+          >
+            <span
+              class="lucid-Button-content"
+            >
+              <svg
+                class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down lucid-SplitButton-ChevronIcon"
+                height="10"
+                preserveAspectRatio="xMidYMid meet"
+                viewBox="0 0 16 16"
+                width="10"
+              >
+                <path
+                  d="M.5 4.5l7.5 7 7.5-7"
+                />
+              </svg>
+            </span>
+          </button>
+        </span>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SplitButton [common] example testing should match snapshot(s) for Up 1`] = `
+<section
+  style="height:100px"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SplitButton"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <span
+          class="lucid-ButtonGroup"
+        >
+          <button
+            class="lucid-Button lucid-Button-primary lucid-SplitButton-Button-primary"
+            type="button"
+          >
+            <span
+              class="lucid-Button-content"
+            >
+              Save
+            </span>
+          </button>
+          <button
+            class="lucid-Button lucid-Button-primary lucid-Button-has-only-icon lucid-SplitButton-Button-drop"
+            type="button"
+          >
+            <span
+              class="lucid-Button-content"
+            >
+              <svg
+                class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-up lucid-SplitButton-ChevronIcon"
+                height="10"
+                preserveAspectRatio="xMidYMid meet"
+                viewBox="0 0 16 16"
+                width="10"
+              >
+                <path
+                  d="M.5 4.5l7.5 7 7.5-7"
+                />
+              </svg>
+            </span>
+          </button>
+        </span>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SplitButton click handlers primary button should trigger \`handleClick\` 1`] = `
+Object {
+  "event": Object {
+    "stopPropagation": [MockFunction] {
+      "calls": Array [
+        Array [],
+      ],
+      "results": Array [
+        Object {
+          "type": "return",
+          "value": undefined,
+        },
+      ],
+    },
+  },
+  "props": Object {
+    "onClick": [MockFunction] {
+      "calls": Array [
+        Array [
+          [Circular],
+        ],
+      ],
+      "results": Array [
+        Object {
+          "type": "return",
+          "value": undefined,
+        },
+      ],
+    },
+  },
+}
+`;
+
+exports[`SplitButton click handlers secondary buttons should call the click handler for the second button when it is selected 1`] = `
+Object {
+  "event": Object {},
+  "props": Object {
+    "onClick": [MockFunction] {
+      "calls": Array [
+        Array [
+          [Circular],
+        ],
+      ],
+      "results": Array [
+        Object {
+          "type": "return",
+          "value": undefined,
+        },
+      ],
+    },
+  },
+}
+`;
+
+exports[`SplitButton click handlers secondary buttons should call the click handler for the third button when it is selected 1`] = `
+Object {
+  "event": Object {},
+  "props": Object {
+    "onClick": [MockFunction] {
+      "calls": Array [
+        Array [
+          [Circular],
+        ],
+      ],
+      "results": Array [
+        Object {
+          "type": "return",
+          "value": undefined,
+        },
+      ],
+    },
+  },
+}
+`;

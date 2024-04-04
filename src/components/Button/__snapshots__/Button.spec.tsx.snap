@@ -1,0 +1,1561 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button [common] example testing should match snapshot(s) for AllTypes 1`] = `
+<div
+  style="display:grid;grid-gap:10px;grid-template-columns:repeat(5, auto);justify-items:start;align-items:center;grid-auto-flow:column"
+>
+  <button
+    class="lucid-Button"
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      standard 
+    </span>
+  </button>
+  <button
+    class="lucid-Button"
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      standard 
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled"
+    disabled=""
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled standard 
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-has-only-icon"
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-primary"
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      standard primary
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-primary"
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      standard primary
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-primary"
+    disabled=""
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled standard primary
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-primary lucid-Button-has-only-icon"
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-link"
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      standard link
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-link"
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      standard link
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-link"
+    disabled=""
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled standard link
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-link lucid-Button-has-only-icon"
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-danger"
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      standard danger
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-danger"
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      standard danger
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-danger"
+    disabled=""
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled standard danger
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-danger lucid-Button-has-only-icon"
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-invisible"
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      standard invisible
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-invisible"
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      standard invisible
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-invisible"
+    disabled=""
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled standard invisible
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-invisible lucid-Button-has-only-icon"
+    style="grid-column:1"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-small"
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      small 
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-small"
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      small 
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-small"
+    disabled=""
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled small 
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-small lucid-Button-has-only-icon"
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-primary lucid-Button-small"
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      small primary
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-primary lucid-Button-small"
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      small primary
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-primary lucid-Button-small"
+    disabled=""
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled small primary
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-primary lucid-Button-small lucid-Button-has-only-icon"
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-link lucid-Button-small"
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      small link
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-link lucid-Button-small"
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      small link
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-link lucid-Button-small"
+    disabled=""
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled small link
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-link lucid-Button-small lucid-Button-has-only-icon"
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-danger lucid-Button-small"
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      small danger
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-danger lucid-Button-small"
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      small danger
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-danger lucid-Button-small"
+    disabled=""
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled small danger
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-danger lucid-Button-small lucid-Button-has-only-icon"
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-invisible lucid-Button-small"
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      small invisible
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-invisible lucid-Button-small"
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      small invisible
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-invisible lucid-Button-small"
+    disabled=""
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled small invisible
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-invisible lucid-Button-small lucid-Button-has-only-icon"
+    style="grid-column:2"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-short"
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      short 
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-short"
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      short 
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-short"
+    disabled=""
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled short 
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-short lucid-Button-has-only-icon"
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-primary lucid-Button-short"
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      short primary
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-primary lucid-Button-short"
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      short primary
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-primary lucid-Button-short"
+    disabled=""
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled short primary
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-primary lucid-Button-short lucid-Button-has-only-icon"
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-link lucid-Button-short"
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      short link
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-link lucid-Button-short"
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      short link
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-link lucid-Button-short"
+    disabled=""
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled short link
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-link lucid-Button-short lucid-Button-has-only-icon"
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-danger lucid-Button-short"
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      short danger
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-danger lucid-Button-short"
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      short danger
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-danger lucid-Button-short"
+    disabled=""
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled short danger
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-danger lucid-Button-short lucid-Button-has-only-icon"
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-invisible lucid-Button-short"
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      short invisible
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-invisible lucid-Button-short"
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      short invisible
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-invisible lucid-Button-short"
+    disabled=""
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled short invisible
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-invisible lucid-Button-short lucid-Button-has-only-icon"
+    style="grid-column:3"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-large"
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      large 
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-large"
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      large 
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-large"
+    disabled=""
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled large 
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-large lucid-Button-has-only-icon"
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-primary lucid-Button-large"
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      large primary
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-primary lucid-Button-large"
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      large primary
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-primary lucid-Button-large"
+    disabled=""
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled large primary
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-primary lucid-Button-large lucid-Button-has-only-icon"
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-link lucid-Button-large"
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      large link
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-link lucid-Button-large"
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      large link
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-link lucid-Button-large"
+    disabled=""
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled large link
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-link lucid-Button-large lucid-Button-has-only-icon"
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-danger lucid-Button-large"
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      large danger
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-danger lucid-Button-large"
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      large danger
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-danger lucid-Button-large"
+    disabled=""
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled large danger
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-danger lucid-Button-large lucid-Button-has-only-icon"
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-invisible lucid-Button-large"
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      large invisible
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-invisible lucid-Button-large"
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      large invisible
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-invisible lucid-Button-large"
+    disabled=""
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+      disabled large invisible
+    </span>
+  </button>
+  <button
+    class="lucid-Button lucid-Button-invisible lucid-Button-large lucid-Button-has-only-icon"
+    style="grid-column:4"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-CheckIcon"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M.5 7L6 12.5 15.5 3"
+        />
+      </svg>
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Button [common] example testing should match snapshot(s) for Basic 1`] = `
+<button
+  class="lucid-Button"
+  type="button"
+>
+  <span
+    class="lucid-Button-content"
+  >
+    Button
+  </span>
+</button>
+`;

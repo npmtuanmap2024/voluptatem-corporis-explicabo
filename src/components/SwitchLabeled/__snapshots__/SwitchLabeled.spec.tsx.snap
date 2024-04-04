@@ -1,0 +1,457 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SwitchLabeled [common] example testing should match snapshot(s) for Basic 1`] = `
+<label
+  class="lucid-SwitchLabeled"
+>
+  <span
+    class="lucid-Switch"
+  >
+    <input
+      class="lucid-Switch-native"
+      type="checkbox"
+    />
+    <span
+      class="lucid-Switch-visualization-container"
+    />
+    <span
+      class="lucid-Switch-visualization-handle"
+    />
+  </span>
+  <span
+    class="lucid-SwitchLabeled-text"
+    style="position:relative"
+  >
+    Default
+  </span>
+</label>
+`;
+
+exports[`SwitchLabeled [common] example testing should match snapshot(s) for Interactive 1`] = `
+<section>
+  <p>
+    <em>
+      (Use the styles on the parent container of 
+      <code>
+        SwitchLabeled
+      </code>
+       components to ensure only the switches and their labels are clickable)
+    </em>
+  </p>
+  <span
+    style="display:inline-flex;flex-direction:column;align-items:flex-start"
+  >
+    <label
+      class="lucid-SwitchLabeled"
+      style="margin-bottom:3px"
+    >
+      <span
+        class="lucid-Switch"
+      >
+        <input
+          class="lucid-Switch-native"
+          type="checkbox"
+        />
+        <span
+          class="lucid-Switch-visualization-container"
+        />
+        <span
+          class="lucid-Switch-visualization-handle"
+        />
+      </span>
+      <span
+        class="lucid-SwitchLabeled-text"
+        style="position:relative"
+      >
+        Airplane Mode
+      </span>
+    </label>
+    <label
+      class="lucid-SwitchLabeled"
+      style="margin-bottom:3px"
+    >
+      <span
+        class="lucid-Switch"
+      >
+        <input
+          class="lucid-Switch-native"
+          type="checkbox"
+        />
+        <span
+          class="lucid-Switch-visualization-container"
+        />
+        <span
+          class="lucid-Switch-visualization-handle"
+        />
+      </span>
+      <span
+        class="lucid-SwitchLabeled-text"
+        style="position:relative"
+      >
+        Bluetooth
+      </span>
+    </label>
+    <label
+      class="lucid-SwitchLabeled"
+      style="margin-bottom:3px"
+    >
+      <span
+        class="lucid-Switch"
+      >
+        <input
+          class="lucid-Switch-native"
+          type="checkbox"
+        />
+        <span
+          class="lucid-Switch-visualization-container"
+        />
+        <span
+          class="lucid-Switch-visualization-handle"
+        />
+      </span>
+      <span
+        class="lucid-SwitchLabeled-text"
+        style="position:relative"
+      >
+        Cellular Data
+      </span>
+    </label>
+  </span>
+</section>
+`;
+
+exports[`SwitchLabeled [common] example testing should match snapshot(s) for InteractiveWithChangingLabels 1`] = `
+<section>
+  <span
+    style="display:inline-flex;flex-direction:column;align-items:flex-start"
+  >
+    <label
+      class="lucid-SwitchLabeled"
+      style="margin-bottom:3px"
+    >
+      <span
+        class="lucid-Switch"
+      >
+        <input
+          class="lucid-Switch-native"
+          type="checkbox"
+        />
+        <span
+          class="lucid-Switch-visualization-container"
+        />
+        <span
+          class="lucid-Switch-visualization-handle"
+        />
+      </span>
+      <span
+        class="lucid-SwitchLabeled-text"
+        style="position:relative"
+      >
+        Airplane Mode Deactivated
+      </span>
+    </label>
+    <label
+      class="lucid-SwitchLabeled"
+      style="margin-bottom:3px"
+    >
+      <span
+        class="lucid-Switch"
+      >
+        <input
+          class="lucid-Switch-native"
+          type="checkbox"
+        />
+        <span
+          class="lucid-Switch-visualization-container"
+        />
+        <span
+          class="lucid-Switch-visualization-handle"
+        />
+      </span>
+      <span
+        class="lucid-SwitchLabeled-text"
+        style="position:relative"
+      >
+        Bluetooth Disabled
+      </span>
+    </label>
+    <label
+      class="lucid-SwitchLabeled"
+      style="margin-bottom:3px"
+    >
+      <span
+        class="lucid-Switch"
+      >
+        <input
+          class="lucid-Switch-native"
+          type="checkbox"
+        />
+        <span
+          class="lucid-Switch-visualization-container"
+        />
+        <span
+          class="lucid-Switch-visualization-handle"
+        />
+      </span>
+      <span
+        class="lucid-SwitchLabeled-text"
+        style="position:relative"
+      >
+        Do Not Use Cellular Data
+      </span>
+    </label>
+  </span>
+  <br />
+  <label
+    class="lucid-SwitchLabeled"
+    style="margin-bottom:3px"
+  >
+    <span
+      class="lucid-Switch"
+    >
+      <input
+        class="lucid-Switch-native"
+        type="checkbox"
+      />
+      <span
+        class="lucid-Switch-visualization-container"
+      />
+      <span
+        class="lucid-Switch-visualization-handle"
+      />
+    </span>
+    <span
+      class="lucid-SwitchLabeled-text"
+      style="position:relative"
+    >
+      No! Please keep your messages to yourself!
+    </span>
+  </label>
+</section>
+`;
+
+exports[`SwitchLabeled [common] example testing should match snapshot(s) for LabelAsProp 1`] = `
+<section>
+  <section
+    style="display:inline-flex;flex-direction:column;align-items:flex-start"
+  >
+    <label
+      class="lucid-SwitchLabeled"
+      style="margin-right:5px"
+    >
+      <span
+        class="lucid-Switch"
+      >
+        <input
+          class="lucid-Switch-native"
+          type="checkbox"
+        />
+        <span
+          class="lucid-Switch-visualization-container"
+        />
+        <span
+          class="lucid-Switch-visualization-handle"
+        />
+      </span>
+      <span
+        class="lucid-SwitchLabeled-text"
+        style="position:relative"
+      >
+        Just text
+      </span>
+    </label>
+    <label
+      class="lucid-SwitchLabeled"
+      style="margin-right:5px"
+    >
+      <span
+        class="lucid-Switch"
+      >
+        <input
+          class="lucid-Switch-native"
+          type="checkbox"
+        />
+        <span
+          class="lucid-Switch-visualization-container"
+        />
+        <span
+          class="lucid-Switch-visualization-handle"
+        />
+      </span>
+      <span
+        class="lucid-SwitchLabeled-text"
+        style="position:relative"
+      >
+        <span>
+          HTML element
+        </span>
+      </span>
+    </label>
+    <label
+      class="lucid-SwitchLabeled"
+      style="margin-right:5px"
+    >
+      <span
+        class="lucid-Switch"
+      >
+        <input
+          class="lucid-Switch-native"
+          type="checkbox"
+        />
+        <span
+          class="lucid-Switch-visualization-container"
+        />
+        <span
+          class="lucid-Switch-visualization-handle"
+        />
+      </span>
+      <span
+        class="lucid-SwitchLabeled-text"
+        style="position:relative"
+      >
+        Text in an array
+      </span>
+    </label>
+    <label
+      class="lucid-SwitchLabeled"
+      style="margin-right:5px"
+    >
+      <span
+        class="lucid-Switch"
+      >
+        <input
+          class="lucid-Switch-native"
+          type="checkbox"
+        />
+        <span
+          class="lucid-Switch-visualization-container"
+        />
+        <span
+          class="lucid-Switch-visualization-handle"
+        />
+      </span>
+      <span
+        class="lucid-SwitchLabeled-text"
+        style="position:relative"
+      >
+        <span>
+          HTML element in an array
+        </span>
+      </span>
+    </label>
+  </section>
+</section>
+`;
+
+exports[`SwitchLabeled [common] example testing should match snapshot(s) for States 1`] = `
+<section
+  style="display:inline-flex;flex-direction:column;align-items:flex-start"
+>
+  <label
+    class="lucid-SwitchLabeled"
+    style="margin-bottom:3px;margin-right:13px"
+  >
+    <span
+      class="lucid-Switch"
+    >
+      <input
+        class="lucid-Switch-native"
+        type="checkbox"
+      />
+      <span
+        class="lucid-Switch-visualization-container"
+      />
+      <span
+        class="lucid-Switch-visualization-handle"
+      />
+    </span>
+    <span
+      class="lucid-SwitchLabeled-text"
+      style="position:relative"
+    >
+      (default props)
+    </span>
+  </label>
+  <section>
+    <label
+      class="lucid-SwitchLabeled lucid-SwitchLabeled-is-selected"
+      style="margin-bottom:3px;margin-right:13px"
+    >
+      <span
+        class="lucid-Switch lucid-Switch-is-selected"
+      >
+        <input
+          checked=""
+          class="lucid-Switch-native"
+          type="checkbox"
+        />
+        <span
+          class="lucid-Switch-visualization-container"
+        />
+        <span
+          class="lucid-Switch-visualization-handle"
+        />
+      </span>
+      <span
+        class="lucid-SwitchLabeled-text"
+        style="position:relative"
+      >
+        Selected
+      </span>
+    </label>
+    <label
+      class="lucid-SwitchLabeled lucid-SwitchLabeled-is-disabled"
+      style="margin-bottom:3px;margin-right:13px"
+    >
+      <span
+        class="lucid-Switch lucid-Switch-is-disabled"
+      >
+        <input
+          class="lucid-Switch-native"
+          disabled=""
+          type="checkbox"
+        />
+        <span
+          class="lucid-Switch-visualization-container"
+        />
+        <span
+          class="lucid-Switch-visualization-handle"
+        />
+      </span>
+      <span
+        class="lucid-SwitchLabeled-text"
+        style="position:relative"
+      >
+        Disabled
+      </span>
+    </label>
+    <label
+      class="lucid-SwitchLabeled lucid-SwitchLabeled-is-disabled lucid-SwitchLabeled-is-selected"
+      style="margin-bottom:3px;margin-right:13px"
+    >
+      <span
+        class="lucid-Switch lucid-Switch-is-disabled lucid-Switch-is-selected"
+      >
+        <input
+          checked=""
+          class="lucid-Switch-native"
+          disabled=""
+          type="checkbox"
+        />
+        <span
+          class="lucid-Switch-visualization-container"
+        />
+        <span
+          class="lucid-Switch-visualization-handle"
+        />
+      </span>
+      <span
+        class="lucid-SwitchLabeled-text"
+        style="position:relative"
+      >
+        Disabled & selected
+      </span>
+    </label>
+  </section>
+</section>
+`;

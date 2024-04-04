@@ -1,0 +1,270 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Paginator [common] example testing should match snapshot(s) for Basic 1`] = `[Error: Storybook preview hooks can only be called inside decorators and story functions.]`;
+
+exports[`Paginator [common] example testing should match snapshot(s) for Disabled 1`] = `
+<div
+  class="lucid-Paginator"
+>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-invisible lucid-Button-has-only-icon"
+    disabled=""
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-ArrowIcon lucid-ArrowIcon-is-left"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M0 8h15.5m-6-6l6 6-6 6"
+        />
+      </svg>
+    </span>
+  </button>
+  <input
+    class="lucid-TextField lucid-TextField-is-disabled lucid-TextField-is-single-line"
+    default=""
+    disabled=""
+    rows="5"
+    type="text"
+    value="1"
+  />
+  <span>
+    of 1
+  </span>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-invisible lucid-Button-has-only-icon"
+    disabled=""
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-ArrowIcon lucid-ArrowIcon-is-right"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M0 8h15.5m-6-6l6 6-6 6"
+        />
+      </svg>
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Paginator [common] example testing should match snapshot(s) for ObjectCounts 1`] = `
+<div
+  class="lucid-Paginator"
+>
+  <div
+    class="lucid-Paginator-total-count"
+  >
+    100 Objects
+  </div>
+  <div
+    class="lucid-Paginator-page-size-container"
+  >
+    <span
+      class="lucid-Paginator-rows-per-page-label"
+    >
+      Rows per page:
+    </span>
+    <div
+      class="lucid-DropMenu lucid-DropMenu-base lucid-SingleSelect"
+    >
+      <span
+        class="lucid-ContextMenu"
+      >
+        <div
+          class="lucid-DropMenu-Control"
+          tabindex="0"
+        >
+          <div
+            class="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-invisible"
+            tabindex="0"
+          >
+            <span
+              class="lucid-SingleSelect-Control-content"
+            >
+              10
+            </span>
+            <svg
+              class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+              height="12"
+              preserveAspectRatio="xMidYMid meet"
+              viewBox="0 0 16 16"
+              width="12"
+            >
+              <path
+                d="M.5 4.5l7.5 7 7.5-7"
+              />
+            </svg>
+          </div>
+        </div>
+      </span>
+    </div>
+  </div>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-invisible lucid-Button-has-only-icon"
+    disabled=""
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-ArrowIcon lucid-ArrowIcon-is-left"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M0 8h15.5m-6-6l6 6-6 6"
+        />
+      </svg>
+    </span>
+  </button>
+  <input
+    class="lucid-TextField lucid-TextField-is-single-line"
+    default=""
+    rows="5"
+    type="text"
+    value="1"
+  />
+  <span>
+    of 10
+  </span>
+  <button
+    class="lucid-Button lucid-Button-invisible lucid-Button-has-only-icon"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-ArrowIcon lucid-ArrowIcon-is-right"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M0 8h15.5m-6-6l6 6-6 6"
+        />
+      </svg>
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Paginator [common] example testing should match snapshot(s) for PageSizeSelector 1`] = `
+<div
+  class="lucid-Paginator"
+>
+  <div
+    class="lucid-Paginator-page-size-container"
+  >
+    <span
+      class="lucid-Paginator-rows-per-page-label"
+    >
+      Rows per page:
+    </span>
+    <div
+      class="lucid-DropMenu lucid-DropMenu-base lucid-SingleSelect"
+    >
+      <span
+        class="lucid-ContextMenu"
+      >
+        <div
+          class="lucid-DropMenu-Control"
+          tabindex="0"
+        >
+          <div
+            class="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-invisible"
+            tabindex="0"
+          >
+            <span
+              class="lucid-SingleSelect-Control-content"
+            >
+              10
+            </span>
+            <svg
+              class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+              height="12"
+              preserveAspectRatio="xMidYMid meet"
+              viewBox="0 0 16 16"
+              width="12"
+            >
+              <path
+                d="M.5 4.5l7.5 7 7.5-7"
+              />
+            </svg>
+          </div>
+        </div>
+      </span>
+    </div>
+  </div>
+  <button
+    class="lucid-Button lucid-Button-is-disabled lucid-Button-invisible lucid-Button-has-only-icon"
+    disabled=""
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-ArrowIcon lucid-ArrowIcon-is-left"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M0 8h15.5m-6-6l6 6-6 6"
+        />
+      </svg>
+    </span>
+  </button>
+  <input
+    class="lucid-TextField lucid-TextField-is-single-line"
+    default=""
+    rows="5"
+    type="text"
+    value="1"
+  />
+  <span>
+    of 50
+  </span>
+  <button
+    class="lucid-Button lucid-Button-invisible lucid-Button-has-only-icon"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      <svg
+        class="lucid-Icon lucid-Icon-color-primary lucid-ArrowIcon lucid-ArrowIcon-is-right"
+        height="16"
+        preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 16 16"
+        width="16"
+      >
+        <path
+          d="M0 8h15.5m-6-6l6 6-6 6"
+        />
+      </svg>
+    </span>
+  </button>
+</div>
+`;

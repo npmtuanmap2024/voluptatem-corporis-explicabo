@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DragCaptureZone [common] example testing should match snapshot(s) for Interactive 1`] = `
+<section
+  style="align-items:center;display:flex"
+>
+  <div
+    class="lucid-DragCaptureZone"
+  >
+    <div
+      style="align-items:center;background-color:#b7b7b7;display:flex;font-family:Helvetica, sans-serif;font-size:24px;font-weight:300;height:300px;justify-content:center;text-transform:uppercase;width:400px"
+    >
+      Go wild!
+    </div>
+  </div>
+  <div
+    style="height:300px;margin-left:50px;overflow:auto;width:600px"
+  />
+</section>
+`;

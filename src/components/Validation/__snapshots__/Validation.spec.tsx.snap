@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Validation [common] example testing should match snapshot(s) for Basic 1`] = `
+<section>
+  <p>
+    Text field with Error prop (Method 1)
+  </p>
+  <div
+    class="lucid-Validation lucid-Validation-is-error"
+  >
+    <input
+      class="lucid-TextField lucid-TextField-is-single-line"
+      rows="5"
+      type="text"
+      value="Text Field Text"
+    />
+    <div
+      class="lucid-Validation-error-content"
+    >
+      Error One
+    </div>
+  </div>
+  <br />
+  <p>
+    Text field with Validation Error child component (Method 2)
+  </p>
+  <div
+    class="lucid-Validation lucid-Validation-is-error"
+  >
+    <input
+      class="lucid-TextField lucid-TextField-is-single-line"
+      rows="5"
+      type="text"
+      value="Text Field Text"
+    />
+    <div
+      class="lucid-Validation-error-content"
+    >
+      <span>
+        Error Two
+      </span>
+    </div>
+  </div>
+  <br />
+  <p>
+    Text area with Error prop (Method 1)
+  </p>
+  <div
+    class="lucid-Validation lucid-Validation-is-error"
+  >
+    <textarea
+      class="lucid-TextField lucid-TextField-is-multi-line"
+      rows="3"
+    >
+      Text Area Text
+    </textarea>
+    <div
+      class="lucid-Validation-error-content"
+    >
+      Error Three
+    </div>
+  </div>
+  <br />
+  <p>
+    Text area with Validation Error child component (Method 2)
+  </p>
+  <div
+    class="lucid-Validation lucid-Validation-is-error"
+  >
+    <textarea
+      class="lucid-TextField lucid-TextField-is-multi-line"
+      rows="3"
+    >
+      Text Area Text
+    </textarea>
+    <div
+      class="lucid-Validation-error-content"
+    >
+      Error FOUR TEST
+    </div>
+  </div>
+</section>
+`;

@@ -1,0 +1,777 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SingleSelect [common] example testing should match snapshot(s) for ArrayOptions 1`] = `
+<section
+  style="min-height:10em"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SingleSelect"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <div
+          class="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-null-option"
+          tabindex="0"
+        >
+          <span
+            class="lucid-SingleSelect-Control-content"
+          >
+            Select a Number
+          </span>
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+            height="12"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="12"
+          >
+            <path
+              d="M.5 4.5l7.5 7 7.5-7"
+            />
+          </svg>
+        </div>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SingleSelect [common] example testing should match snapshot(s) for Basic 1`] = `
+<section
+  style="min-height:10em"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SingleSelect"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <div
+          class="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-null-option"
+          tabindex="0"
+        >
+          <span
+            class="lucid-SingleSelect-Control-content"
+          >
+            Select Color
+          </span>
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+            height="12"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="12"
+          >
+            <path
+              d="M.5 4.5l7.5 7 7.5-7"
+            />
+          </svg>
+        </div>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SingleSelect [common] example testing should match snapshot(s) for DisabledOptions 1`] = `
+<section
+  style="min-height:10em"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SingleSelect"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <div
+          class="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-null-option"
+          tabindex="0"
+        >
+          <span
+            class="lucid-SingleSelect-Control-content"
+          >
+            Select Color
+          </span>
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+            height="12"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="12"
+          >
+            <path
+              d="M.5 4.5l7.5 7 7.5-7"
+            />
+          </svg>
+        </div>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SingleSelect [common] example testing should match snapshot(s) for DisabledSelect 1`] = `
+<section
+  style="min-height:10em"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SingleSelect"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+      >
+        <div
+          class="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-disabled lucid-SingleSelect-Control-is-null-option"
+          tabindex="0"
+        >
+          <span
+            class="lucid-SingleSelect-Control-content"
+          >
+            Select Color
+          </span>
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+            height="12"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="12"
+          >
+            <path
+              d="M.5 4.5l7.5 7 7.5-7"
+            />
+          </svg>
+        </div>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SingleSelect [common] example testing should match snapshot(s) for FormattedOptions 1`] = `
+<section
+  style="min-height:10em"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SingleSelect"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <div
+          class="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-null-option"
+          tabindex="0"
+        >
+          <span
+            class="lucid-SingleSelect-Control-content"
+          >
+            Select Color
+          </span>
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+            height="12"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="12"
+          >
+            <path
+              d="M.5 4.5l7.5 7 7.5-7"
+            />
+          </svg>
+        </div>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SingleSelect [common] example testing should match snapshot(s) for GroupedOptions 1`] = `
+<section
+  style="min-height:10em"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SingleSelect"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <div
+          class="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-null-option"
+          tabindex="0"
+        >
+          <span
+            class="lucid-SingleSelect-Control-content"
+          >
+            Select Color
+          </span>
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+            height="12"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="12"
+          >
+            <path
+              d="M.5 4.5l7.5 7 7.5-7"
+            />
+          </svg>
+        </div>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SingleSelect [common] example testing should match snapshot(s) for Invisible 1`] = `
+<section
+  style="min-height:10em"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SingleSelect"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <div
+          class="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-invisible lucid-SingleSelect-Control-is-null-option"
+          tabindex="0"
+        >
+          <span
+            class="lucid-SingleSelect-Control-content"
+          >
+            Select Color
+          </span>
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+            height="12"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="12"
+          >
+            <path
+              d="M.5 4.5l7.5 7 7.5-7"
+            />
+          </svg>
+        </div>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SingleSelect [common] example testing should match snapshot(s) for InvisibleAndDisabled 1`] = `
+<section
+  style="min-height:10em"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SingleSelect"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+      >
+        <div
+          class="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-disabled lucid-SingleSelect-Control-is-invisible lucid-SingleSelect-Control-is-null-option"
+          tabindex="0"
+        >
+          <span
+            class="lucid-SingleSelect-Control-content"
+          >
+            Select Color
+          </span>
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+            height="12"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="12"
+          >
+            <path
+              d="M.5 4.5l7.5 7 7.5-7"
+            />
+          </svg>
+        </div>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SingleSelect [common] example testing should match snapshot(s) for MaxMenuHeight 1`] = `
+<section
+  style="min-height:10em"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SingleSelect"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <div
+          class="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-null-option"
+          tabindex="0"
+        >
+          <span
+            class="lucid-SingleSelect-Control-content"
+          >
+            Select Color
+          </span>
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+            height="12"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="12"
+          >
+            <path
+              d="M.5 4.5l7.5 7 7.5-7"
+            />
+          </svg>
+        </div>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SingleSelect [common] example testing should match snapshot(s) for NamedOptions 1`] = `
+<section
+  style="min-height:10em"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SingleSelect"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <div
+          class="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-null-option"
+          tabindex="0"
+        >
+          <span
+            class="lucid-SingleSelect-Control-content"
+          >
+            Select Color
+          </span>
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+            height="12"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="12"
+          >
+            <path
+              d="M.5 4.5l7.5 7 7.5-7"
+            />
+          </svg>
+        </div>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SingleSelect [common] example testing should match snapshot(s) for NoSelectionHighlighting 1`] = `
+<section
+  style="min-height:10em"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SingleSelect"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <div
+          class="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-null-option"
+          tabindex="0"
+        >
+          <span
+            class="lucid-SingleSelect-Control-content"
+          >
+            Select Color
+          </span>
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+            height="12"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="12"
+          >
+            <path
+              d="M.5 4.5l7.5 7 7.5-7"
+            />
+          </svg>
+        </div>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SingleSelect [common] example testing should match snapshot(s) for NoUnselect 1`] = `
+<section
+  style="min-height:10em"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SingleSelect"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <div
+          class="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-null-option"
+          tabindex="0"
+        >
+          <span
+            class="lucid-SingleSelect-Control-content"
+          >
+            Select Color
+          </span>
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+            height="12"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="12"
+          >
+            <path
+              d="M.5 4.5l7.5 7 7.5-7"
+            />
+          </svg>
+        </div>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SingleSelect [common] example testing should match snapshot(s) for RichContent 1`] = `
+<section
+  style="min-height:10em"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SingleSelect"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <div
+          class="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-null-option"
+          tabindex="0"
+        >
+          <span
+            class="lucid-SingleSelect-Control-content"
+          >
+            <svg
+              class="lucid-Icon lucid-Icon-color-primary lucid-PlusIcon"
+              height="16"
+              preserveAspectRatio="xMidYMid meet"
+              style="margin-right:4px"
+              viewBox="0 0 16 16"
+              width="16"
+            >
+              <path
+                d="M8 .5v15M15.5 8H.5"
+              />
+            </svg>
+             Add Color
+          </span>
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+            height="12"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="12"
+          >
+            <path
+              d="M.5 4.5l7.5 7 7.5-7"
+            />
+          </svg>
+        </div>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SingleSelect [common] example testing should match snapshot(s) for Stateless 1`] = `
+<section
+  style="min-height:10em"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-DropMenu-is-expanded lucid-DropMenu-direction-down lucid-SingleSelect"
+    style="min-height:220px"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <div
+          class="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-highlighted lucid-SingleSelect-Control-is-selected lucid-SingleSelect-Control-is-expanded"
+          tabindex="0"
+        >
+          <span
+            class="lucid-SingleSelect-Control-content"
+          >
+            Green
+          </span>
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+            height="12"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="12"
+          >
+            <path
+              d="M.5 4.5l7.5 7 7.5-7"
+            />
+          </svg>
+        </div>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SingleSelect [common] example testing should match snapshot(s) for Title 1`] = `
+<section
+  style="min-height:10em"
+>
+  <div
+    class="lucid-DropMenu lucid-DropMenu-base lucid-SingleSelect"
+  >
+    <span
+      class="lucid-ContextMenu"
+    >
+      <div
+        class="lucid-DropMenu-Control"
+        tabindex="0"
+      >
+        <div
+          class="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-null-option"
+          tabindex="0"
+        >
+          <span
+            class="select-title"
+          >
+            Sample Title:
+          </span>
+          <span
+            class="lucid-SingleSelect-Control-content"
+          >
+            Select Color
+          </span>
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+            height="12"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="12"
+          >
+            <path
+              d="M.5 4.5l7.5 7 7.5-7"
+            />
+          </svg>
+        </div>
+      </div>
+    </span>
+  </div>
+</section>
+`;
+
+exports[`SingleSelect child elements Option should render Option.Selected in the Placeholder area 1`] = `
+<DropMenu
+  ContextMenu={
+    Object {
+      "directonOffset": 0,
+    }
+  }
+  alignment="start"
+  className="lucid-SingleSelect"
+  direction="down"
+  flyOutStyle={
+    Object {
+      "maxHeight": "18em",
+    }
+  }
+  focusedIndex={null}
+  isDisabled={false}
+  isExpanded={false}
+  onCollapse={[Function]}
+  onExpand={[Function]}
+  onFocusNext={[Function]}
+  onFocusOption={[Function]}
+  onFocusPrev={[Function]}
+  onSelect={[Function]}
+  optionContainerStyle={Object {}}
+  portalId=""
+  selectedIndices={
+    Array [
+      1,
+    ]
+  }
+>
+  <DropMenu.Control>
+    <div
+      className="lucid-SingleSelect-Control lucid-SingleSelect-Control-is-highlighted lucid-SingleSelect-Control-is-selected"
+      tabIndex={0}
+    >
+      <span
+        className="lucid-SingleSelect-Control-content"
+      >
+        option b
+      </span>
+      <ChevronIcon
+        aspectRatio="xMidYMid meet"
+        color="primary"
+        direction="down"
+        isClickable={false}
+        isDisabled={false}
+        onClick={[Function]}
+        onSelect={[Function]}
+        size={12}
+        viewBox="0 0 16 16"
+      />
+    </div>
+  </DropMenu.Control>
+  <DropMenu.NullOption>
+    select one
+  </DropMenu.NullOption>
+  <DropMenu.Option
+    isDisabled={false}
+    isHidden={false}
+    isWrapped={true}
+    key="SingleSelectOption0"
+    name="OptionA"
+  >
+    <div
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "width": 100,
+          }
+        }
+      >
+        id
+      </div>
+      <div>
+        option a
+      </div>
+    </div>
+  </DropMenu.Option>
+  <DropMenu.Option
+    isDisabled={false}
+    isHidden={false}
+    isWrapped={true}
+    key="SingleSelectOption1"
+    name="OptionB"
+  >
+    <div
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "width": 100,
+          }
+        }
+      >
+        id
+      </div>
+      <div>
+        option b
+      </div>
+    </div>
+  </DropMenu.Option>
+  <DropMenu.Option
+    isDisabled={false}
+    isHidden={false}
+    isWrapped={true}
+    key="SingleSelectOption2"
+    name="OptionC"
+  >
+    <div
+      style={
+        Object {
+          "display": "flex",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "width": 100,
+          }
+        }
+      >
+        id
+      </div>
+      <div>
+        option c
+      </div>
+    </div>
+  </DropMenu.Option>
+</DropMenu>
+`;

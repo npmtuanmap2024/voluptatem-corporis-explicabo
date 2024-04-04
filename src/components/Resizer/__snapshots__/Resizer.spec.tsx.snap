@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Resizer [common] example testing should match snapshot(s) for Basic 1`] = `
+<div
+  class="lucid-Resizer"
+>
+  <div>
+    <div>
+      Width: 0
+    </div>
+    <div>
+      Height: 0
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Resizer [common] example testing should match snapshot(s) for WithFlex 1`] = `
+<section
+  style="display:flex"
+>
+  <div>
+    Other content
+  </div>
+  <div
+    class="lucid-Resizer"
+    style="flex-grow:1;overflow:hidden"
+  >
+    <div
+      style="width:0;height:0;border:1px solid black"
+    >
+      <div>
+        When using Resizer within a flexed container, its critical to add 
+        <code>
+          flexGrow: 1, overflow: 'hidden'
+        </code>
+         to its styles so it will behave correctly.
+      </div>
+      <div>
+        Width: 0
+      </div>
+      <div>
+        Height: 0
+      </div>
+    </div>
+  </div>
+</section>
+`;

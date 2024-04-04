@@ -1,0 +1,125 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextField [common] example testing should match snapshot(s) for Basic 1`] = `
+<div>
+  <input
+    class="lucid-TextField lucid-TextField-is-single-line"
+    placeholder="default"
+    rows="5"
+    style="margin-bottom:10px"
+    type="text"
+    value=""
+  />
+</div>
+`;
+
+exports[`TextField [common] example testing should match snapshot(s) for Debounced 1`] = `
+<div>
+  <input
+    class="lucid-TextField lucid-TextField-is-single-line"
+    rows="5"
+    style="margin-bottom:10px"
+    type="text"
+    value="foo"
+  />
+  <div
+    style="margin-bottom:10px;margin-left:10px"
+  >
+    state.value: foo
+  </div>
+  <button
+    class="lucid-Button"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      Set TextField to "foo"
+    </span>
+  </button>
+</div>
+`;
+
+exports[`TextField [common] example testing should match snapshot(s) for Disabled 1`] = `
+<div>
+  <input
+    class="lucid-TextField lucid-TextField-is-disabled lucid-TextField-is-single-line"
+    disabled=""
+    placeholder="disabled"
+    rows="5"
+    style="margin-bottom:10px"
+    type="text"
+    value="foo"
+  />
+</div>
+`;
+
+exports[`TextField [common] example testing should match snapshot(s) for Multiline 1`] = `
+<div>
+  <input
+    class="lucid-TextField lucid-TextField-is-single-line"
+    placeholder="default"
+    rows="5"
+    style="margin-bottom:10px"
+    type="text"
+    value=""
+  />
+  <textarea
+    class="lucid-TextField lucid-TextField-is-multi-line"
+    placeholder="isMultiline"
+    rows="5"
+    style="margin-bottom:10px"
+  />
+  <div
+    style="margin-bottom:10px;margin-left:10px"
+  >
+    state.value: 
+  </div>
+  <button
+    class="lucid-Button"
+    type="button"
+  >
+    <span
+      class="lucid-Button-content"
+    >
+      Set TextField to "foo"
+    </span>
+  </button>
+</div>
+`;
+
+exports[`TextField [common] example testing should match snapshot(s) for OnSubmit 1`] = `
+<div>
+  <input
+    class="lucid-TextField lucid-TextField-is-single-line"
+    rows="5"
+    style="margin-bottom:10px"
+    type="text"
+    value="Enter some text in and hit enter"
+  />
+  <div
+    style="margin-top:10px;margin-left:10px"
+  >
+    state.value: Enter some text in and hit enter
+  </div>
+</div>
+`;
+
+exports[`TextField [common] example testing should match snapshot(s) for Plain 1`] = `
+<div>
+  <input
+    class="lucid-TextField lucid-TextField-is-single-line"
+    placeholder="Plain Textfield example"
+    rows="5"
+    style="margin-bottom:10px"
+    type="text"
+    value=""
+  />
+  <textarea
+    class="lucid-TextField lucid-TextField-is-multi-line"
+    placeholder="Plain Textfield multiline example"
+    rows="5"
+    style="margin-bottom:10px"
+  />
+</div>
+`;

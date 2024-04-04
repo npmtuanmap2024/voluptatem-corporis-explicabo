@@ -1,0 +1,153 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Switch [common] example testing should match snapshot(s) for Basic 1`] = `
+<span
+  class="lucid-Switch lucid-Switch-is-selected"
+>
+  <input
+    checked=""
+    class="lucid-Switch-native"
+    type="checkbox"
+  />
+  <span
+    class="lucid-Switch-visualization-container"
+  />
+  <span
+    class="lucid-Switch-visualization-handle"
+  />
+</span>
+`;
+
+exports[`Switch [common] example testing should match snapshot(s) for Disabled 1`] = `
+<span
+  class="lucid-Switch lucid-Switch-is-disabled"
+>
+  <input
+    class="lucid-Switch-native"
+    disabled=""
+    title="Disabled"
+    type="checkbox"
+  />
+  <span
+    class="lucid-Switch-visualization-container"
+  />
+  <span
+    class="lucid-Switch-visualization-handle"
+  />
+</span>
+`;
+
+exports[`Switch [common] example testing should match snapshot(s) for DisabledIncludeExclude 1`] = `
+<span
+  class="lucid-Switch lucid-Switch-is-disabled lucid-Switch-is-include-exclude"
+>
+  <input
+    class="lucid-Switch-native"
+    disabled=""
+    title="Disabled Include/Exclude"
+    type="checkbox"
+  />
+  <span
+    class="lucid-Switch-visualization-container"
+  />
+  <span
+    class="lucid-Switch-visualization-handle"
+  />
+</span>
+`;
+
+exports[`Switch [common] example testing should match snapshot(s) for DisabledSelected 1`] = `
+<span
+  class="lucid-Switch lucid-Switch-is-disabled lucid-Switch-is-selected"
+>
+  <input
+    checked=""
+    class="lucid-Switch-native"
+    disabled=""
+    title="Disabled and Selected"
+    type="checkbox"
+  />
+  <span
+    class="lucid-Switch-visualization-container"
+  />
+  <span
+    class="lucid-Switch-visualization-handle"
+  />
+</span>
+`;
+
+exports[`Switch [common] example testing should match snapshot(s) for IncludeExclude 1`] = `
+<span
+  class="lucid-Switch lucid-Switch-is-include-exclude"
+>
+  <input
+    class="lucid-Switch-native"
+    title="Include/Exclude"
+    type="checkbox"
+  />
+  <span
+    class="lucid-Switch-visualization-container"
+  />
+  <span
+    class="lucid-Switch-visualization-handle"
+  />
+</span>
+`;
+
+exports[`Switch [common] example testing should match snapshot(s) for Selected 1`] = `
+<span
+  class="lucid-Switch lucid-Switch-is-selected"
+>
+  <input
+    checked=""
+    class="lucid-Switch-native"
+    title="Selected"
+    type="checkbox"
+  />
+  <span
+    class="lucid-Switch-visualization-container"
+  />
+  <span
+    class="lucid-Switch-visualization-handle"
+  />
+</span>
+`;
+
+exports[`Switch [common] example testing should match snapshot(s) for SelectedDisabledIncludeExclude 1`] = `
+<span
+  class="lucid-Switch lucid-Switch-is-disabled lucid-Switch-is-selected lucid-Switch-is-include-exclude"
+>
+  <input
+    checked=""
+    class="lucid-Switch-native"
+    disabled=""
+    title="Selected and Disabled Include/Exclude"
+    type="checkbox"
+  />
+  <span
+    class="lucid-Switch-visualization-container"
+  />
+  <span
+    class="lucid-Switch-visualization-handle"
+  />
+</span>
+`;
+
+exports[`Switch [common] example testing should match snapshot(s) for SelectedIncludeExclude 1`] = `
+<span
+  class="lucid-Switch lucid-Switch-is-selected lucid-Switch-is-include-exclude"
+>
+  <input
+    checked=""
+    class="lucid-Switch-native"
+    title="Selected Include/Exclude"
+    type="checkbox"
+  />
+  <span
+    class="lucid-Switch-visualization-container"
+  />
+  <span
+    class="lucid-Switch-visualization-handle"
+  />
+</span>
+`;

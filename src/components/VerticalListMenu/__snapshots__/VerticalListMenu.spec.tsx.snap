@@ -1,0 +1,772 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VerticalListMenu [common] example testing should match snapshot(s) for Basic 1`] = `
+<section>
+  <ul
+    class="lucid-VerticalListMenu"
+    style="width:250px"
+  >
+    <li
+      class="lucid-VerticalListMenu-Item"
+    >
+      <div
+        class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+      >
+        <div
+          class="lucid-VerticalListMenu-Item-content-body"
+        >
+          <div
+            class="lucid-VerticalListMenu-Item-content-text"
+          >
+            Level one
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      class="lucid-VerticalListMenu-Item"
+    >
+      <div
+        class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+      >
+        <div
+          class="lucid-VerticalListMenu-Item-content-body"
+        >
+          <div
+            class="lucid-VerticalListMenu-Item-content-text"
+          >
+            Level one
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      class="lucid-VerticalListMenu-Item"
+    >
+      <div
+        class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+      >
+        <div
+          class="lucid-VerticalListMenu-Item-content-body"
+        >
+          <div
+            class="lucid-VerticalListMenu-Item-content-text"
+          >
+            Level one
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</section>
+`;
+
+exports[`VerticalListMenu [common] example testing should match snapshot(s) for NestedFullWidth 1`] = `
+<ul
+  class="lucid-VerticalListMenu"
+>
+  <li
+    class="lucid-VerticalListMenu-Item"
+  >
+    <div
+      class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-selected lucid-VerticalListMenu-Item-content-is-actionable"
+    >
+      <div
+        class="lucid-VerticalListMenu-Item-content-body"
+      >
+        <div
+          class="lucid-VerticalListMenu-Item-content-text"
+        >
+          Level one
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    class="lucid-VerticalListMenu-Item"
+  >
+    <div
+      class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-expanded lucid-VerticalListMenu-Item-content-is-actionable"
+    >
+      <div
+        class="lucid-VerticalListMenu-Item-content-body"
+      >
+        <div
+          class="lucid-VerticalListMenu-Item-content-text"
+        >
+          Level one with VerticalListMenu
+        </div>
+      </div>
+    </div>
+    <div
+      class="lucid-Collapsible lucid-VerticalListMenu-Item-nested-list"
+      style="overflow:hidden;padding:0"
+    >
+      <div
+        class="lucid-Collapsible-content"
+        style="margin:0"
+      >
+        <ul
+          class="lucid-VerticalListMenu"
+        >
+          <li
+            class="lucid-VerticalListMenu-Item"
+          >
+            <div
+              class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content-body"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-text"
+                >
+                  Level two
+                </div>
+              </div>
+            </div>
+          </li>
+          <li
+            class="lucid-VerticalListMenu-Item"
+          >
+            <div
+              class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content-body"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-text"
+                >
+                  Level two
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </li>
+  <li
+    class="lucid-VerticalListMenu-Item"
+  >
+    <div
+      class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-expanded lucid-VerticalListMenu-Item-content-is-actionable"
+    >
+      <div
+        class="lucid-VerticalListMenu-Item-content-body"
+      >
+        <div
+          class="lucid-VerticalListMenu-Item-content-text"
+        >
+          Level one with VerticalListMenu
+        </div>
+      </div>
+    </div>
+    <div
+      class="lucid-Collapsible lucid-VerticalListMenu-Item-nested-list"
+      style="overflow:hidden;padding:0"
+    >
+      <div
+        class="lucid-Collapsible-content"
+        style="margin:0"
+      >
+        <ul
+          class="lucid-VerticalListMenu"
+        >
+          <li
+            class="lucid-VerticalListMenu-Item"
+          >
+            <div
+              class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content-body"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-text"
+                >
+                  Level two
+                </div>
+              </div>
+            </div>
+          </li>
+          <li
+            class="lucid-VerticalListMenu-Item"
+          >
+            <div
+              class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content-body"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-text"
+                >
+                  Level two with closed VerticalListMenu
+                </div>
+              </div>
+            </div>
+            <div
+              class="lucid-Collapsible lucid-VerticalListMenu-Item-nested-list"
+              style="overflow:hidden;padding:0"
+            >
+              <div
+                class="lucid-Collapsible-content"
+                style="margin:0"
+              />
+            </div>
+          </li>
+          <li
+            class="lucid-VerticalListMenu-Item"
+          >
+            <div
+              class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content-body"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-text"
+                >
+                  Level two
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </li>
+  <li
+    class="lucid-VerticalListMenu-Item"
+  >
+    <div
+      class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+    >
+      <div
+        class="lucid-VerticalListMenu-Item-content-body"
+      >
+        <div
+          class="lucid-VerticalListMenu-Item-content-text"
+        >
+          Level one
+        </div>
+      </div>
+    </div>
+  </li>
+</ul>
+`;
+
+exports[`VerticalListMenu [common] example testing should match snapshot(s) for NestedWithExpander 1`] = `
+<ul
+  class="lucid-VerticalListMenu"
+  style="width:250px"
+>
+  <li
+    class="lucid-VerticalListMenu-Item"
+  >
+    <div
+      class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-selected lucid-VerticalListMenu-Item-content-is-actionable"
+    >
+      <div
+        class="lucid-VerticalListMenu-Item-content-body"
+      >
+        <div
+          class="lucid-VerticalListMenu-Item-content-text"
+        >
+          Level one
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    class="lucid-VerticalListMenu-Item"
+  >
+    <div
+      class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+    >
+      <div
+        class="lucid-VerticalListMenu-Item-content-body"
+      >
+        <div
+          class="lucid-VerticalListMenu-Item-content-text"
+        >
+          Level one with VerticalListMenu
+        </div>
+        <div
+          class="lucid-VerticalListMenu-Item-expander"
+        >
+          <svg
+            class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+            height="12"
+            preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 16 16"
+            width="12"
+          >
+            <path
+              d="M.5 4.5l7.5 7 7.5-7"
+            />
+          </svg>
+        </div>
+      </div>
+    </div>
+    <div
+      class="lucid-Collapsible lucid-VerticalListMenu-Item-nested-list"
+      style="overflow:hidden;padding:0"
+    >
+      <div
+        class="lucid-Collapsible-content"
+        style="margin:0"
+      />
+    </div>
+  </li>
+  <li
+    class="lucid-VerticalListMenu-Item"
+  >
+    <div
+      class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+    >
+      <div
+        class="lucid-VerticalListMenu-Item-content-body"
+      >
+        <div
+          class="lucid-VerticalListMenu-Item-content-text"
+        >
+          Level one
+        </div>
+      </div>
+    </div>
+  </li>
+</ul>
+`;
+
+exports[`VerticalListMenu [common] example testing should match snapshot(s) for NoAnimations 1`] = `
+<section>
+  <ul
+    class="lucid-VerticalListMenu"
+    style="width:250px"
+  >
+    <li
+      class="lucid-VerticalListMenu-Item"
+    >
+      <div
+        class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+      >
+        <div
+          class="lucid-VerticalListMenu-Item-content-body"
+        >
+          <div
+            class="lucid-VerticalListMenu-Item-content-text"
+          >
+            Level one
+          </div>
+        </div>
+      </div>
+    </li>
+    <li
+      class="lucid-VerticalListMenu-Item"
+    >
+      <div
+        class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+      >
+        <div
+          class="lucid-VerticalListMenu-Item-content-body"
+        >
+          <div
+            class="lucid-VerticalListMenu-Item-content-text"
+          >
+            Level one with VerticalListMenu
+          </div>
+          <div
+            class="lucid-VerticalListMenu-Item-expander"
+          >
+            <svg
+              class="lucid-Icon lucid-Icon-color-primary lucid-ChevronIcon lucid-ChevronIcon-is-down"
+              height="12"
+              preserveAspectRatio="xMidYMid meet"
+              viewBox="0 0 16 16"
+              width="12"
+            >
+              <path
+                d="M.5 4.5l7.5 7 7.5-7"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div
+        class="lucid-Collapsible lucid-VerticalListMenu-Item-nested-list"
+        style="overflow:hidden;padding:0"
+      >
+        <div
+          class="lucid-Collapsible-content"
+          style="margin:0"
+        >
+          <ul
+            class="lucid-VerticalListMenu"
+          >
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li
+              class="lucid-VerticalListMenu-Item"
+            >
+              <div
+                class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+              >
+                <div
+                  class="lucid-VerticalListMenu-Item-content-body"
+                >
+                  <div
+                    class="lucid-VerticalListMenu-Item-content-text"
+                  >
+                    Level two
+                  </div>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </li>
+    <li
+      class="lucid-VerticalListMenu-Item"
+    >
+      <div
+        class="lucid-VerticalListMenu-Item-content lucid-VerticalListMenu-Item-content-is-not-selected lucid-VerticalListMenu-Item-content-is-actionable"
+      >
+        <div
+          class="lucid-VerticalListMenu-Item-content-body"
+        >
+          <div
+            class="lucid-VerticalListMenu-Item-content-text"
+          >
+            Level one
+          </div>
+        </div>
+      </div>
+    </li>
+  </ul>
+</section>
+`;
